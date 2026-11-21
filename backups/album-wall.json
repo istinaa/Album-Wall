@@ -1,0 +1,6174 @@
+{
+  "version": 1,
+  "savedAt": "2026-11-21T03:37:59.890Z",
+  "records": [
+    {
+      "album": {
+        "id": "860dc2de-b1d5-4fc2-b872-f7072316cac1",
+        "source": "musicbrainz",
+        "title": "万能青年旅店",
+        "titleAliases": [
+          "萬能青年旅店"
+        ],
+        "artist": "万能青年旅店",
+        "year": "2010",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "4cd1ce8c-469e-4ff6-a987-59819b975a85",
+            "name": "万能青年旅店",
+            "aliases": [
+              "万能青年旅店",
+              "Omnipotent Youth Society",
+              "Wànnéng Qīngnián Lǚdiàn",
+              "萬能青年旅店"
+            ]
+          }
+        ],
+        "genres": [
+          "rock",
+          "alternative rock",
+          "art rock",
+          "pop rock"
+        ]
+      },
+      "status": "listened",
+      "rating": 10,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-22T08:46:32.436Z",
+      "updatedAt": "2026-09-22T08:46:34.910Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "53dab9a8-4fc7-45f9-b667-79da8bb85a71",
+        "source": "musicbrainz",
+        "title": "Everything I Know About Love",
+        "titleAliases": [],
+        "artist": "Laufey",
+        "year": "2022",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "21a89505-10a9-4ac0-8388-833bc07b9f86",
+            "name": "Laufey",
+            "aliases": [
+              "Laufey",
+              "林冰",
+              "Laufey Lín Bing Jónsdóttir"
+            ]
+          }
+        ],
+        "genres": [
+          "vocal jazz",
+          "jazz pop",
+          "jazz",
+          "singer-songwriter",
+          "bossa nova",
+          "traditional pop",
+          "chamber folk"
+        ]
+      },
+      "status": "listened",
+      "rating": 7.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-23T06:45:28.987Z",
+      "updatedAt": "2026-09-23T06:45:31.334Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "d3f5ca51-0682-4434-a532-932f7b16da48",
+        "source": "musicbrainz",
+        "title": "The Happy Star",
+        "titleAliases": [
+          "幸福星"
+        ],
+        "artist": "刘柏辛Lexie",
+        "year": "2022",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "96fc9b47-377d-4706-ae8a-cf0d83bcaf7a",
+            "name": "刘柏辛",
+            "aliases": [
+              "刘柏辛Lexie",
+              "Lexie Liu",
+              "劉柏辛Lexie",
+              "刘昱妤",
+              "Liu Boxin"
+            ]
+          }
+        ],
+        "genres": [
+          "pop"
+        ]
+      },
+      "status": "listened",
+      "rating": 4,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-23T06:42:55.763Z",
+      "updatedAt": "2026-09-24T05:52:02.380Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "98260861-58b7-43a1-be5e-745e87902167",
+        "source": "musicbrainz",
+        "title": "银河上升的三秒钟",
+        "titleAliases": [],
+        "artist": "阿弗娄",
+        "year": "2022",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "0b472733-2a20-4295-9ae6-ff61357d4ede",
+            "name": "阿弗娄",
+            "aliases": [
+              "Aflou",
+              "许杰"
+            ]
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 7,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-23T06:43:10.658Z",
+      "updatedAt": "2026-09-24T05:52:07.364Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "e5c00483-80f6-440f-8bdc-ac070010eebf",
+        "source": "musicbrainz",
+        "title": "夢境",
+        "titleAliases": [
+          "Dreams"
+        ],
+        "artist": "大象體操",
+        "year": "2022",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "9fdc68d1-98ac-463c-a309-181b58c74aed",
+            "name": "大象體操",
+            "aliases": [
+              "エレファントジム",
+              "Elephant Gym"
+            ]
+          }
+        ],
+        "genres": [
+          "math rock",
+          "rock",
+          "post-rock",
+          "instrumental",
+          "jazz rock",
+          "experimental rock",
+          "jazz fusion",
+          "math pop"
+        ]
+      },
+      "status": "listened",
+      "rating": 7.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-23T06:43:23.265Z",
+      "updatedAt": "2026-09-24T05:52:10.632Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "9b71786c-1b8d-4a31-a367-e86cdd8f9520",
+        "source": "musicbrainz",
+        "title": "Before the Applause",
+        "titleAliases": [],
+        "artist": "Re‐TROS",
+        "year": "2017",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "32e69425-f232-48d8-9472-e816f1230b2a",
+            "name": "Re-TROS",
+            "aliases": [
+              "Re-TROS",
+              "重塑雕像的權利",
+              "重塑雕像的权利",
+              "Rebuilding the Rights of Statues"
+            ]
+          }
+        ],
+        "genres": [
+          "rock",
+          "post-rock",
+          "experimental",
+          "math rock",
+          "post-punk"
+        ]
+      },
+      "status": "listened",
+      "rating": 4,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-23T06:43:50.459Z",
+      "updatedAt": "2026-09-24T05:52:14.007Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "8043919f-01c8-3a48-be8c-ded6b3411399",
+        "source": "musicbrainz",
+        "title": "黑夢",
+        "titleAliases": [
+          "Black Dream",
+          "黑梦"
+        ],
+        "artist": "窦唯",
+        "year": "1994",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "57488107-e763-4955-abc2-f279548ffe9a",
+            "name": "窦唯",
+            "aliases": [
+              "Wei Dou",
+              "ñ¼Î¨",
+              "竇唯",
+              "鬄峔"
+            ]
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 7,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-23T06:44:05.475Z",
+      "updatedAt": "2026-09-24T05:52:20.021Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "0da340a0-6ad7-4fc2-a272-6f94393a7831",
+        "source": "musicbrainz",
+        "title": "Blonde",
+        "titleAliases": [
+          "Blond"
+        ],
+        "artist": "Frank Ocean",
+        "year": "2016",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "e520459c-dff4-491d-a6e4-c97be35e0044",
+            "name": "Frank Ocean",
+            "aliases": [
+              "フランクオーシャン",
+              "Christopher Francis Ocean",
+              "フランク・オーシャン"
+            ]
+          }
+        ],
+        "genres": [
+          "neo soul",
+          "neo-soul",
+          "art pop",
+          "alternative r&b",
+          "contemporary r&b"
+        ]
+      },
+      "status": "listened",
+      "rating": 5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-23T06:44:19.394Z",
+      "updatedAt": "2026-09-24T05:52:25.422Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "0f9f92ed-d6fe-3b52-8cdf-262410f6a77a",
+        "source": "musicbrainz",
+        "title": "Distance",
+        "titleAliases": [],
+        "artist": "宇多田ヒカル",
+        "year": "2001",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "b539e453-c4fe-47e3-8a07-8517eac74429",
+            "name": "宇多田ヒカル",
+            "aliases": [
+              "Hikaru Utada",
+              "宇多田光",
+              "Utada Hikaru",
+              "宇多田ヒカル",
+              "Utada",
+              "Hikki",
+              "Cubic U",
+              "우타다히카루"
+            ]
+          }
+        ],
+        "genres": [
+          "j-pop",
+          "contemporary r&b"
+        ]
+      },
+      "status": "listened",
+      "rating": 8.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-23T06:44:35.939Z",
+      "updatedAt": "2026-09-24T05:52:30.154Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "8d6cb4c9-8a71-49ec-8935-060051f9b1d9",
+        "source": "musicbrainz",
+        "title": "Young Fresh Chin II",
+        "titleAliases": [],
+        "artist": "夏之禹",
+        "year": "2023",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "87468503-12aa-490a-af14-6e31b8349322",
+            "name": "夏之禹",
+            "aliases": []
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 4.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-23T06:45:06.434Z",
+      "updatedAt": "2026-09-24T05:52:34.369Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "1a272023-10d3-38ee-bab3-317b55fcc21d",
+        "source": "musicbrainz",
+        "title": "Wish You Were Here",
+        "titleAliases": [
+          "Wish You Were Here 50"
+        ],
+        "artist": "Pink Floyd",
+        "year": "1975",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "83d91898-7763-47d7-b03b-b92132375c47",
+            "name": "Pink Floyd",
+            "aliases": [
+              "핑크 플로이드",
+              "Pink Floyd",
+              "ピンク・フロイド"
+            ]
+          }
+        ],
+        "genres": [
+          "progressive rock",
+          "art rock",
+          "psychedelic rock",
+          "rock",
+          "concept album",
+          "progressive",
+          "melancholic",
+          "longing",
+          "experimental rock",
+          "space rock"
+        ]
+      },
+      "status": "listened",
+      "rating": 9.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T05:52:59.080Z",
+      "updatedAt": "2026-09-24T05:53:02.786Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "9f7a4c28-8fa2-3113-929c-c47a9f7982c3",
+        "source": "musicbrainz",
+        "title": "Sgt. Pepper’s Lonely Hearts Club Band",
+        "titleAliases": [
+          "Sgt. Pepper’s Lonely Hearts Club Band (2017 mix)",
+          "Sgt. Peppers Lonely Heart Club Band",
+          "Sgt. Pepper's Lonely Hearts Club Band",
+          "Sgt. Pepper’s Lonely Hearts Club Band (deluxe edition)",
+          "Sgt. Pepper’s Lonely Hearts Club Band (super deluxe edition)",
+          "Sgt. Pepper's Lonely Hearts Club Band (Stereo Remastered)"
+        ],
+        "artist": "The Beatles",
+        "year": "1967",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+            "name": "The Beatles",
+            "aliases": [
+              "披头士乐队",
+              "披头士",
+              "披頭四",
+              "더 비틀즈",
+              "Los Beatles",
+              "The Beatles",
+              "비틀스",
+              "披頭四樂團"
+            ]
+          }
+        ],
+        "genres": [
+          "rock",
+          "psychedelic rock",
+          "baroque pop",
+          "pop",
+          "classic rock",
+          "pop rock",
+          "art rock",
+          "psychedelic",
+          "psychedelic pop",
+          "british invasion"
+        ]
+      },
+      "status": "listened",
+      "rating": 9,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T05:53:34.938Z",
+      "updatedAt": "2026-09-24T05:53:38.929Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "8905581d-9785-39d6-8470-e4888b102f1f",
+        "source": "musicbrainz",
+        "title": "U87",
+        "titleAliases": [
+          "正東10X10我至愛唱片：U87",
+          "U87 (5週年 24K Gold)",
+          "U 87"
+        ],
+        "artist": "陳奕迅",
+        "year": "2005",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "86119d30-d930-4e65-a97a-e31e22388166",
+            "name": "陳奕迅",
+            "aliases": [
+              "陈奕迅",
+              "陳奕迅",
+              "Eason Chan",
+              "Chen Yixun",
+              "Chen Yi Xun",
+              "Chan Yik Shun"
+            ]
+          }
+        ],
+        "genres": [
+          "cantopop"
+        ]
+      },
+      "status": "listened",
+      "rating": 7.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T05:53:46.976Z",
+      "updatedAt": "2026-09-24T05:53:50.988Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "c60fcd45-9420-30aa-98e5-2bffb894021a",
+        "source": "musicbrainz",
+        "title": "First Love",
+        "titleAliases": [],
+        "artist": "宇多田ヒカル",
+        "year": "1999",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "b539e453-c4fe-47e3-8a07-8517eac74429",
+            "name": "宇多田ヒカル",
+            "aliases": [
+              "Hikaru Utada",
+              "宇多田光",
+              "Utada Hikaru",
+              "宇多田ヒカル",
+              "Utada",
+              "Hikki",
+              "Cubic U",
+              "우타다히카루"
+            ]
+          }
+        ],
+        "genres": [
+          "j-pop",
+          "dance-pop",
+          "pop soul",
+          "contemporary r&b"
+        ]
+      },
+      "status": "listened",
+      "rating": 9.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T05:54:04.578Z",
+      "updatedAt": "2026-09-24T05:54:07.774Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "eb899ff7-dc1f-490c-9342-2bb66df40770",
+        "source": "musicbrainz",
+        "title": "飞出迷楼 (Out of the Labyrinth)",
+        "titleAliases": [],
+        "artist": "苏紫旭 & The Paramecia",
+        "year": "2017",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "f8c991e1-ea26-4e37-b513-0e4cd281a6f7",
+            "name": "苏紫旭 & The Paramecia",
+            "aliases": []
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 8.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T05:54:25.691Z",
+      "updatedAt": "2026-09-24T05:54:28.136Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "fafc6881-c742-4070-913e-70dc55b9a99e",
+        "source": "musicbrainz",
+        "title": "狗日子",
+        "titleAliases": [],
+        "artist": "表情银行",
+        "year": "2022",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "c74212ef-e822-4bd9-a5bc-43c2a170de2d",
+            "name": "表情银行",
+            "aliases": [
+              "MimikBanka",
+              "16mins"
+            ]
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 7,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T05:54:42.010Z",
+      "updatedAt": "2026-09-24T05:54:45.056Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "31877743-21f5-447e-9c76-2f6bb291fb9d",
+        "source": "musicbrainz",
+        "title": "天演論",
+        "titleAliases": [],
+        "artist": "盧巧音",
+        "year": "2005",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "7ede4a5c-b55d-48d4-bf5a-55ced3597ae8",
+            "name": "盧巧音",
+            "aliases": [
+              "卢巧音",
+              "Lo Hau Yam",
+              "Candy Lo"
+            ]
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 7,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T05:54:52.789Z",
+      "updatedAt": "2026-09-24T05:54:55.362Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "79b81dcf-f4ee-457c-8695-cc8af2dc43e3",
+        "source": "musicbrainz",
+        "title": "口是心非",
+        "titleAliases": [],
+        "artist": "張雨生",
+        "year": "1997",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "eb67c934-0adb-41fd-9812-c2c60893d17d",
+            "name": "張雨生",
+            "aliases": [
+              "张雨生",
+              "Zhang Yusheng",
+              "Chang Yu-Sheng"
+            ]
+          }
+        ],
+        "genres": [
+          "mandopop"
+        ]
+      },
+      "status": "listened",
+      "rating": 8.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T05:55:06.747Z",
+      "updatedAt": "2026-09-24T05:55:08.989Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "d9d61716-9c55-4653-a915-07f49ecdb314",
+        "source": "musicbrainz",
+        "title": "卡拉OK Live．台北．我",
+        "titleAliases": [],
+        "artist": "張雨生",
+        "year": "1994",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "eb67c934-0adb-41fd-9812-c2c60893d17d",
+            "name": "張雨生",
+            "aliases": [
+              "张雨生",
+              "Zhang Yusheng",
+              "Chang Yu-Sheng"
+            ]
+          }
+        ],
+        "genres": [
+          "fixme",
+          "mandopop"
+        ]
+      },
+      "status": "listened",
+      "rating": 8,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T05:55:25.744Z",
+      "updatedAt": "2026-09-24T05:55:29.750Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "8e8aead9-812e-4f95-ac65-186cf1b5d465",
+        "source": "musicbrainz",
+        "title": "Fantôme",
+        "titleAliases": [],
+        "artist": "宇多田ヒカル",
+        "year": "2016",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "b539e453-c4fe-47e3-8a07-8517eac74429",
+            "name": "宇多田ヒカル",
+            "aliases": [
+              "Hikaru Utada",
+              "宇多田光",
+              "Utada Hikaru",
+              "宇多田ヒカル",
+              "Utada",
+              "Hikki",
+              "Cubic U",
+              "우타다히카루"
+            ]
+          }
+        ],
+        "genres": [
+          "j-pop"
+        ]
+      },
+      "status": "listened",
+      "rating": 9.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T05:55:41.689Z",
+      "updatedAt": "2026-09-24T05:55:44.320Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "8971037e-9171-3b32-b3bf-d58c2da40060",
+        "source": "musicbrainz",
+        "title": "胡思亂想",
+        "titleAliases": [
+          "傳奇：胡思亂想",
+          "夢遊"
+        ],
+        "artist": "王菲",
+        "year": "1994",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "692e367d-2846-442d-b13d-1177c3681c65",
+            "name": "王菲",
+            "aliases": [
+              "王菲",
+              "フェイ・ウォン",
+              "Faye Wong",
+              "Vương Phi",
+              "Faye Wang",
+              "Wong Xia Lin",
+              "Wong Ching Man",
+              "Wong Fei"
+            ]
+          }
+        ],
+        "genres": [
+          "pop"
+        ]
+      },
+      "status": "listened",
+      "rating": 7.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T05:55:54.026Z",
+      "updatedAt": "2026-09-24T05:55:59.419Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "96828376-52cc-4e2c-b722-001e048cec3f",
+        "source": "musicbrainz",
+        "title": "BURGER POP",
+        "titleAliases": [],
+        "artist": "汉堡黄",
+        "year": "2023",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "d01d412f-be82-48f5-a9d8-f66939d657b4",
+            "name": "汉堡黄",
+            "aliases": [
+              "Hanbao Huang",
+              "漢堡黃"
+            ]
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 8.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T05:56:09.985Z",
+      "updatedAt": "2026-09-24T05:56:12.956Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "317d8a2b-ef7f-4f46-b32f-722b65c07dac",
+        "source": "musicbrainz",
+        "title": "最美妙的旅行",
+        "titleAliases": [],
+        "artist": "声音玩具",
+        "year": "2003",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "f1d76370-e559-4f26-81c7-8652733352e6",
+            "name": "声音玩具",
+            "aliases": [
+              "Soundtoy",
+              "聲音玩具"
+            ]
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 7,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T05:56:23.082Z",
+      "updatedAt": "2026-09-24T05:56:26.223Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "cf2eaaeb-e472-3b2a-a643-a01efd24c4e5",
+        "source": "musicbrainz",
+        "title": "DEEP RIVER",
+        "titleAliases": [],
+        "artist": "宇多田ヒカル",
+        "year": "2002",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "b539e453-c4fe-47e3-8a07-8517eac74429",
+            "name": "宇多田ヒカル",
+            "aliases": [
+              "Hikaru Utada",
+              "宇多田光",
+              "Utada Hikaru",
+              "宇多田ヒカル",
+              "Utada",
+              "Hikki",
+              "Cubic U",
+              "우타다히카루"
+            ]
+          }
+        ],
+        "genres": [
+          "downtempo",
+          "pop",
+          "j-pop",
+          "ballad"
+        ]
+      },
+      "status": "listened",
+      "rating": 9,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T05:56:35.321Z",
+      "updatedAt": "2026-09-24T05:56:38.988Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "6e335887-60ba-38f0-95af-fae7774336bf",
+        "source": "musicbrainz",
+        "title": "In Rainbows",
+        "titleAliases": [],
+        "artist": "Radiohead",
+        "year": "2007",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+            "name": "Radiohead",
+            "aliases": [
+              "电台司令",
+              "レディオヘッド"
+            ]
+          }
+        ],
+        "genres": [
+          "alternative rock",
+          "rock",
+          "art rock",
+          "electronic",
+          "indie rock",
+          "alt rock",
+          "krautrock",
+          "experimental",
+          "uk",
+          "progressive"
+        ]
+      },
+      "status": "listened",
+      "rating": 4,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T05:56:58.630Z",
+      "updatedAt": "2026-09-24T05:57:01.286Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "apple-TW-177025348",
+        "source": "apple",
+        "title": "黑豹",
+        "artist": "黑豹樂隊",
+        "year": "1992",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "apple-558456191",
+            "name": "黑豹樂隊"
+          }
+        ],
+        "genres": [
+          "華語搖滾"
+        ]
+      },
+      "status": "listened",
+      "rating": 8,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T05:57:14.930Z",
+      "updatedAt": "2026-09-24T05:57:20.043Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "22bd5a1a-4a4e-35d4-9aba-4b0dc33ed7b6",
+        "source": "musicbrainz",
+        "title": "红旗下的蛋",
+        "titleAliases": [
+          "Balls Under the Red Flag"
+        ],
+        "artist": "崔健",
+        "year": "1994",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "d457f05e-8802-4888-83a6-b07d3df3bbf3",
+            "name": "崔健",
+            "aliases": [
+              "崔健",
+              "Cui Jian"
+            ]
+          }
+        ],
+        "genres": [
+          "rock",
+          "alternative rock",
+          "progressive rock",
+          "new wave",
+          "funk rock",
+          "jazz rock",
+          "art rock",
+          "jazz fusion",
+          "rap rock",
+          "chinese folk music"
+        ]
+      },
+      "status": "listened",
+      "rating": 6.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T05:58:17.577Z",
+      "updatedAt": "2026-09-24T05:58:20.868Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "b4e6d3e3-8b69-3b10-86a6-437ef60b409b",
+        "source": "musicbrainz",
+        "title": "淚橋",
+        "titleAliases": [],
+        "artist": "伍佰 & China Blue",
+        "year": "2003",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "1f240905-1a42-4150-8c81-141eb198885d",
+            "name": "伍佰 & China Blue",
+            "aliases": [
+              "Wu Bai & China Blue",
+              "伍佰&China Blue",
+              "Wubai",
+              "伍佰 and China Blue",
+              "¥î¨Õ+China Blue",
+              "WUBAI & CHINA BLUE",
+              "Wu Bai and China Blue",
+              "Wubai and China Blue"
+            ]
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 5.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T05:58:31.337Z",
+      "updatedAt": "2026-09-24T05:58:33.880Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "3a02603a-8562-43ac-81ce-7536ca151a89",
+        "source": "musicbrainz",
+        "title": "天使音乐",
+        "titleAliases": [],
+        "artist": "汪川",
+        "year": "2026",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "3dbfde9f-5e8f-4437-a7b4-6637cfe80e2e",
+            "name": "汪川",
+            "aliases": []
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 8.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T05:58:41.321Z",
+      "updatedAt": "2026-09-24T05:58:44.831Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "87ef0dea-df13-49ef-98e7-b2a9ddbdd005",
+        "source": "musicbrainz",
+        "title": "蓋亞",
+        "titleAliases": [
+          "盖亚"
+        ],
+        "artist": "林憶蓮",
+        "year": "2012",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "280697d2-164d-4477-971d-06b91e57c6a5",
+            "name": "林憶蓮",
+            "aliases": [
+              "林憶蓮",
+              "林忆莲",
+              "Sandy Lam",
+              "Lin Yi Lian",
+              "Lam Yik Lin",
+              "ªL¾Ð½¬"
+            ]
+          }
+        ],
+        "genres": [
+          "rock",
+          "electronic",
+          "pop",
+          "alternative rock",
+          "ballad",
+          "mandopop"
+        ]
+      },
+      "status": "listened",
+      "rating": 7,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T05:58:53.313Z",
+      "updatedAt": "2026-09-24T05:58:57.003Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "358aff44-e0cd-4522-b389-ec4c8eb6c4fe",
+        "source": "musicbrainz",
+        "title": "末路狂花",
+        "titleAliases": [],
+        "artist": "魏如萱",
+        "year": "2016",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "3821e3ac-4d91-40b8-a669-f58d1fe2c0c4",
+            "name": "魏如萱",
+            "aliases": [
+              "魏如萱",
+              "Waa Wei",
+              "Waa"
+            ]
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 7.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T05:59:04.331Z",
+      "updatedAt": "2026-09-24T05:59:06.326Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "b9823f5a-c4ae-3883-b895-58501146607f",
+        "source": "musicbrainz",
+        "title": "HEART STATION",
+        "titleAliases": [],
+        "artist": "宇多田ヒカル",
+        "year": "2008",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "b539e453-c4fe-47e3-8a07-8517eac74429",
+            "name": "宇多田ヒカル",
+            "aliases": [
+              "Hikaru Utada",
+              "宇多田光",
+              "Utada Hikaru",
+              "宇多田ヒカル",
+              "Utada",
+              "Hikki",
+              "Cubic U",
+              "우타다히카루"
+            ]
+          }
+        ],
+        "genres": [
+          "electronic",
+          "pop",
+          "j-pop",
+          "pop/rock/j-pop/electronic/dance-pop/contemporary pop/rock"
+        ]
+      },
+      "status": "listened",
+      "rating": 8.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T05:59:20.651Z",
+      "updatedAt": "2026-09-24T05:59:24.071Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "apple-TW-1442912707",
+        "source": "apple",
+        "title": "Life Continues",
+        "artist": "陳奕迅",
+        "year": "2006",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "apple-137938148",
+            "name": "陳奕迅"
+          }
+        ],
+        "genres": [
+          "粵語流行樂"
+        ]
+      },
+      "status": "listened",
+      "rating": 6,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T05:59:55.128Z",
+      "updatedAt": "2026-09-24T06:00:05.786Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "apple-US-178049863",
+        "source": "apple",
+        "title": "Blonde On Blonde",
+        "artist": "Bob Dylan",
+        "year": "1966",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "apple-462006",
+            "name": "Bob Dylan"
+          }
+        ],
+        "genres": [
+          "Rock"
+        ]
+      },
+      "status": "listened",
+      "rating": 6.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T06:00:38.822Z",
+      "updatedAt": "2026-09-24T06:00:40.615Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "525acb31-dc9c-4c0d-ba9c-09b86976604d",
+        "source": "musicbrainz",
+        "title": "枯萎颂",
+        "titleAliases": [
+          "枯萎颂 (Ode to Wither)"
+        ],
+        "artist": "王忆灵",
+        "year": "2024",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "81ff370b-d8eb-4361-9da2-85817315444a",
+            "name": "王忆灵",
+            "aliases": [
+              "Wang Yiling"
+            ]
+          }
+        ],
+        "genres": [
+          "singer-songwriter",
+          "progressive folk",
+          "chamber folk",
+          "art pop"
+        ]
+      },
+      "status": "listened",
+      "rating": 8.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T06:00:49.674Z",
+      "updatedAt": "2026-09-24T06:00:51.977Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "fe9bf6c3-dbe7-3170-baf4-ebe31d2b40d7",
+        "source": "musicbrainz",
+        "title": "寓言",
+        "titleAliases": [
+          "フェイブル"
+        ],
+        "artist": "王菲",
+        "year": "2000",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "692e367d-2846-442d-b13d-1177c3681c65",
+            "name": "王菲",
+            "aliases": [
+              "王菲",
+              "フェイ・ウォン",
+              "Faye Wong",
+              "Vương Phi",
+              "Faye Wang",
+              "Wong Xia Lin",
+              "Wong Ching Man",
+              "Wong Fei"
+            ]
+          }
+        ],
+        "genres": [
+          "rock",
+          "electronic",
+          "pop",
+          "j-pop",
+          "breakbeat",
+          "ballad",
+          "pop rock",
+          "europop",
+          "mandopop",
+          "qi-proper pinyin"
+        ]
+      },
+      "status": "listened",
+      "rating": 8,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T06:00:59.304Z",
+      "updatedAt": "2026-09-24T06:01:01.954Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "e9a2d963-ef1a-386c-81d7-2d5141cfda63",
+        "source": "musicbrainz",
+        "title": "將愛",
+        "titleAliases": [
+          "将爱",
+          "將愛 All-In VCD",
+          "將愛 \"All-In\" DVD+CD"
+        ],
+        "artist": "王菲",
+        "year": "2003",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "692e367d-2846-442d-b13d-1177c3681c65",
+            "name": "王菲",
+            "aliases": [
+              "王菲",
+              "フェイ・ウォン",
+              "Faye Wong",
+              "Vương Phi",
+              "Faye Wang",
+              "Wong Xia Lin",
+              "Wong Ching Man",
+              "Wong Fei"
+            ]
+          }
+        ],
+        "genres": [
+          "rock",
+          "electronic",
+          "pop",
+          "j-pop",
+          "breakbeat",
+          "ballad",
+          "cantopop"
+        ]
+      },
+      "status": "listened",
+      "rating": 7.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T06:01:10.487Z",
+      "updatedAt": "2026-09-24T06:01:14.651Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "e6e030f0-07a7-429f-82e8-4ea22bea4ce4",
+        "source": "musicbrainz",
+        "title": "Winter Sweet",
+        "titleAliases": [],
+        "artist": "蛋堡",
+        "year": "2009",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "7e4448d1-4ee1-40fa-9f81-38fa6caa131e",
+            "name": "蛋堡",
+            "aliases": [
+              "蛋堡",
+              "Soft Lipa",
+              "蛋堡 Softlipa"
+            ]
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 7.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T06:01:27.835Z",
+      "updatedAt": "2026-09-24T06:01:32.553Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "61fce585-a60d-457d-86d2-0bcf2945e137",
+        "source": "musicbrainz",
+        "title": "黄金时代",
+        "titleAliases": [],
+        "artist": "达达",
+        "year": "2003",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "2a87fc6e-8e3e-43f7-b150-339bdab274cb",
+            "name": "达达乐队",
+            "aliases": [
+              "THE DADA",
+              "達達樂隊"
+            ]
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 8,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T06:01:48.280Z",
+      "updatedAt": "2026-09-24T06:01:53.081Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "5cbd9d7b-597a-3c5e-bfd1-c2b364215560",
+        "source": "musicbrainz",
+        "title": "The Velvet Underground & Nico",
+        "titleAliases": [
+          "The Velvet Underground & Nico (Rarities Edition: Essential Collector's Tracks)"
+        ],
+        "artist": "The Velvet Underground & Nico",
+        "year": "1967",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "94b0fb9d-a066-4823-b2ec-af1d324bcfcf",
+            "name": "The Velvet Underground",
+            "aliases": [
+              "The Velvets",
+              "The Velvet Underground and Nico",
+              "Velvet Underground",
+              "Velvet Underground, The",
+              "The Velvet Underground & Nico",
+              "Velvet Underground & Nico"
+            ]
+          },
+          {
+            "id": "37c61bf2-5fb1-47ae-9605-80025d956958",
+            "name": "Nico",
+            "aliases": [
+              "Christa Päffgen"
+            ]
+          }
+        ],
+        "genres": [
+          "art rock",
+          "experimental rock",
+          "rock",
+          "psychedelic rock",
+          "garage rock",
+          "proto-punk",
+          "noise rock",
+          "alternative and punk",
+          "art pop",
+          "experimental"
+        ]
+      },
+      "status": "listened",
+      "rating": 7,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T06:02:12.970Z",
+      "updatedAt": "2026-09-24T06:02:16.938Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "0436f306-0993-4e12-acfa-4b725163b9bd",
+        "source": "musicbrainz",
+        "title": "醜奴兒",
+        "titleAliases": [],
+        "artist": "草東沒有派對",
+        "year": "2016",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "1636f82a-b541-4867-9eb7-e4b224552eef",
+            "name": "草東沒有派對",
+            "aliases": [
+              "草东没有派对",
+              "No Party for Cao Dong"
+            ]
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 8,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T06:02:25.008Z",
+      "updatedAt": "2026-09-24T06:02:30.056Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "a2404ca5-d7d8-4d8e-9ecd-d65553fc207c",
+        "source": "musicbrainz",
+        "title": "瓦合",
+        "titleAliases": [
+          "The Clod"
+        ],
+        "artist": "草東沒有派對",
+        "year": "2023",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "1636f82a-b541-4867-9eb7-e4b224552eef",
+            "name": "草東沒有派對",
+            "aliases": [
+              "草东没有派对",
+              "No Party for Cao Dong"
+            ]
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 7.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T06:02:41.149Z",
+      "updatedAt": "2026-09-24T06:02:43.794Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "59ff6861-edc3-473d-8613-c1008005ca6e",
+        "source": "musicbrainz",
+        "title": "解决",
+        "titleAliases": [],
+        "artist": "崔健",
+        "year": "2005",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "d457f05e-8802-4888-83a6-b07d3df3bbf3",
+            "name": "崔健",
+            "aliases": [
+              "崔健",
+              "Cui Jian"
+            ]
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 8,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T06:40:44.998Z",
+      "updatedAt": "2026-09-24T07:51:01.097Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "ec19fe3d-ae17-31b2-8a74-b3daf6d802c2",
+        "source": "musicbrainz",
+        "title": "ULTRA BLUE",
+        "titleAliases": [],
+        "artist": "宇多田ヒカル",
+        "year": "2006",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "b539e453-c4fe-47e3-8a07-8517eac74429",
+            "name": "宇多田ヒカル",
+            "aliases": [
+              "Hikaru Utada",
+              "宇多田光",
+              "Utada Hikaru",
+              "宇多田ヒカル",
+              "Utada",
+              "Hikki",
+              "Cubic U",
+              "우타다히카루"
+            ]
+          }
+        ],
+        "genres": [
+          "pop",
+          "j-pop",
+          "qi-western releases",
+          "pop/rock/japanese traditions/j-pop/international/dance-pop",
+          "textless graphic"
+        ]
+      },
+      "status": "listened",
+      "rating": 8,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T06:02:54.267Z",
+      "updatedAt": "2026-09-24T07:51:05.146Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "apple-TW-1622563433",
+        "source": "apple",
+        "title": "唐朝",
+        "artist": "唐朝樂隊",
+        "year": "1992",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "apple-376972064",
+            "name": "唐朝樂隊"
+          }
+        ],
+        "genres": [
+          "華語搖滾"
+        ]
+      },
+      "status": "listened",
+      "rating": 7.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T07:51:19.021Z",
+      "updatedAt": "2026-09-24T07:51:20.866Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "20c77fb4-1c9f-33c8-9d7e-c4977f11e847",
+        "source": "musicbrainz",
+        "title": "Animals",
+        "titleAliases": [
+          "Animals (2018 remix)"
+        ],
+        "artist": "Pink Floyd",
+        "year": "1977",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "83d91898-7763-47d7-b03b-b92132375c47",
+            "name": "Pink Floyd",
+            "aliases": [
+              "핑크 플로이드",
+              "Pink Floyd",
+              "ピンク・フロイド"
+            ]
+          }
+        ],
+        "genres": [
+          "progressive rock",
+          "rock",
+          "art rock",
+          "concept album",
+          "progressive",
+          "psychedelic rock",
+          "political",
+          "socialism",
+          "psychedelic",
+          "album rock"
+        ]
+      },
+      "status": "listened",
+      "rating": 8.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T17:27:31.392Z",
+      "updatedAt": "2026-09-24T17:27:36.364Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "f9f7ed87-193b-4fb3-8a9a-9961cd1c0745",
+        "source": "musicbrainz",
+        "title": "华北浪革",
+        "titleAliases": [],
+        "artist": "刘森",
+        "year": "2021",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "a2a70e3e-5392-4b7d-bf48-9f6be845b3ba",
+            "name": "刘森",
+            "aliases": [
+              "Liu Sen",
+              "劉森"
+            ]
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 7,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T17:27:51.843Z",
+      "updatedAt": "2026-09-24T17:27:55.773Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "856082b7-777e-4308-b07e-d28d77955308",
+        "source": "musicbrainz",
+        "title": "春游",
+        "titleAliases": [],
+        "artist": "窦靖童",
+        "year": "2023",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "f5cc9359-d2c7-4075-b3a8-acf751af642d",
+            "name": "Leah Dou",
+            "aliases": [
+              "窦靖童",
+              "竇靖童"
+            ]
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 7,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T17:28:04.586Z",
+      "updatedAt": "2026-09-24T17:28:09.453Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "624e93c4-73df-4fe1-9e92-df9312e98908",
+        "source": "musicbrainz",
+        "title": "Demo 3",
+        "titleAliases": [],
+        "artist": "陳綺貞",
+        "year": "2001",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "3a71842d-b291-4991-a30d-9d8328a26d3e",
+            "name": "陳綺貞",
+            "aliases": [
+              "Cheer Chen",
+              "陈绮贞",
+              "Yizhen Chen",
+              "Chen Qi Zhen",
+              "Yee Ching Chan"
+            ]
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 7.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-24T17:28:41.388Z",
+      "updatedAt": "2026-09-24T17:28:46.016Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "f1bf800c-8948-4113-bec2-fa0be2dcae58",
+        "source": "musicbrainz",
+        "title": "你所不知道的杜振熙之内部整修",
+        "titleAliases": [
+          "你所不知道的杜振熙之內部整修"
+        ],
+        "artist": "杜振熙",
+        "year": "2013",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "7e4448d1-4ee1-40fa-9f81-38fa6caa131e",
+            "name": "蛋堡",
+            "aliases": [
+              "蛋堡",
+              "Soft Lipa",
+              "蛋堡 Softlipa"
+            ]
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 7,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-29T17:17:36.392Z",
+      "updatedAt": "2026-09-29T17:17:43.795Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "9e49286a-b370-478c-b76f-9b10c3448a5f",
+        "source": "musicbrainz",
+        "title": "where is my mice?",
+        "titleAliases": [],
+        "artist": "鼠鼠鼠",
+        "year": "2026",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "27a0677b-ce4c-4f6e-bef4-602497933193",
+            "name": "鼠鼠鼠",
+            "aliases": [
+              "the three mice"
+            ]
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 7,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-29T17:18:16.501Z",
+      "updatedAt": "2026-09-29T17:18:19.157Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "apple-US-1440863506",
+        "source": "apple",
+        "title": "La La Land (Original Motion Picture Soundtrack)",
+        "artist": "Justin Hurwitz, Benj Pasek, Justin Noble Paul, Emma Stone & Ryan Gosling",
+        "year": "2016",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "apple-918231350",
+            "name": "Justin Hurwitz, Benj Pasek, Justin Noble Paul, Emma Stone & Ryan Gosling"
+          }
+        ],
+        "genres": [
+          "Musicals"
+        ]
+      },
+      "status": "listened",
+      "rating": 10,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-29T17:18:46.561Z",
+      "updatedAt": "2026-09-29T17:18:48.001Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "14c2e2d5-385f-4970-bae0-0de7e461f123",
+        "source": "musicbrainz",
+        "title": "再見理想",
+        "titleAliases": [],
+        "artist": "Beyond",
+        "year": "1986",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "d84d02ad-d74c-4227-8073-6f13a039cfac",
+            "name": "Beyond",
+            "aliases": []
+          }
+        ],
+        "genres": [
+          "cantopop"
+        ]
+      },
+      "status": "listened",
+      "rating": 6.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-29T17:19:29.955Z",
+      "updatedAt": "2026-09-29T17:19:34.253Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "apple-TW-1440763800",
+        "source": "apple",
+        "title": "Kyouiku - Education",
+        "artist": "東京事變",
+        "year": "2004",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "apple-74570585",
+            "name": "東京事變"
+          }
+        ],
+        "genres": [
+          "搖滾"
+        ]
+      },
+      "status": "listened",
+      "rating": 7.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-29T17:20:15.676Z",
+      "updatedAt": "2026-09-29T17:20:18.743Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "68cd3faf-6df2-451f-8e19-395269159076",
+        "source": "musicbrainz",
+        "title": "BADモード",
+        "titleAliases": [],
+        "artist": "宇多田ヒカル",
+        "year": "2022",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "b539e453-c4fe-47e3-8a07-8517eac74429",
+            "name": "宇多田ヒカル",
+            "aliases": [
+              "Hikaru Utada",
+              "宇多田光",
+              "Utada Hikaru",
+              "宇多田ヒカル",
+              "Utada",
+              "Hikki",
+              "Cubic U",
+              "우타다히카루"
+            ]
+          }
+        ],
+        "genres": [
+          "pop",
+          "j-pop"
+        ]
+      },
+      "status": "listened",
+      "rating": 8,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-29T17:21:26.993Z",
+      "updatedAt": "2026-09-29T17:21:32.154Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "61456a94-ba4c-3377-b2b9-0d2513e2ba37",
+        "source": "musicbrainz",
+        "title": "The Best Damn Thing",
+        "titleAliases": [],
+        "artist": "Avril Lavigne",
+        "year": "2007",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "0103c1cc-4a09-4a5d-a344-56ad99a77193",
+            "name": "Avril Lavigne",
+            "aliases": [
+              "Avril Lavigne",
+              "艾薇儿",
+              "アヴリル・ラヴィーン",
+              "Avril Ramona Lavigne",
+              "Avril Ramona Lavigne Kroeger",
+              "Avril Ramona Lavigne Whibley"
+            ]
+          }
+        ],
+        "genres": [
+          "alternative rock",
+          "rock",
+          "pop",
+          "pop rock",
+          "punk",
+          "power pop",
+          "pop punk",
+          "teen rock",
+          "bubblegum punk",
+          "punk rock"
+        ]
+      },
+      "status": "listened",
+      "rating": 7.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-29T17:22:23.363Z",
+      "updatedAt": "2026-09-29T17:22:28.335Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "apple-US-1666662415",
+        "source": "apple",
+        "title": "All Things Must Pass (50th Anniversary)",
+        "artist": "George Harrison",
+        "year": "1970",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "apple-255233",
+            "name": "George Harrison"
+          }
+        ],
+        "genres": [
+          "Rock"
+        ]
+      },
+      "status": "listened",
+      "rating": 6,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-29T17:22:48.735Z",
+      "updatedAt": "2026-09-29T17:22:54.285Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "7ae03372-9385-4e65-947c-11417bc761da",
+        "source": "musicbrainz",
+        "title": "No Moon at All",
+        "titleAliases": [],
+        "artist": "Wildcat! Wildcat!",
+        "year": "2014",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "5cbb7d26-9fcb-40af-9b8a-c27e817a65a6",
+            "name": "Wildcat! Wildcat!",
+            "aliases": []
+          }
+        ],
+        "genres": [
+          "electronic"
+        ]
+      },
+      "status": "listened",
+      "rating": 7.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-29T17:23:09.953Z",
+      "updatedAt": "2026-09-29T17:23:12.706Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "e8710f65-3926-47fe-aa7a-17900365fa84",
+        "source": "musicbrainz",
+        "title": "I Am Not A Star",
+        "titleAliases": [],
+        "artist": "順子",
+        "year": "1998",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "7ccaa1d1-5365-4ec0-8d63-a2c2a8ec9bab",
+            "name": "順子",
+            "aliases": [
+              "顺子",
+              "Shunza",
+              "Shun Zi"
+            ]
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 8.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-01T13:48:03.144Z",
+      "updatedAt": "2026-10-01T13:48:06.526Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "895cf302-0028-4cae-99c9-97824973fcaf",
+        "source": "musicbrainz",
+        "title": "完美的呻吟",
+        "titleAliases": [],
+        "artist": "陳珊妮",
+        "year": "2000",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "5a82e569-9482-4435-bed4-3b033368bf09",
+            "name": "陳珊妮",
+            "aliases": [
+              "陈珊妮",
+              "Sandee Chan"
+            ]
+          }
+        ],
+        "genres": [
+          "mandopop"
+        ]
+      },
+      "status": "listened",
+      "rating": 6,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-01T13:48:24.764Z",
+      "updatedAt": "2026-10-01T13:48:27.623Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "21b14dac-052f-451e-9071-aaa8e62e4813",
+        "source": "musicbrainz",
+        "title": "初恋",
+        "titleAliases": [
+          "Hatsukoi"
+        ],
+        "artist": "宇多田ヒカル",
+        "year": "2018",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "b539e453-c4fe-47e3-8a07-8517eac74429",
+            "name": "宇多田ヒカル",
+            "aliases": [
+              "Hikaru Utada",
+              "宇多田光",
+              "Utada Hikaru",
+              "宇多田ヒカル",
+              "Utada",
+              "Hikki",
+              "Cubic U",
+              "우타다히카루"
+            ]
+          }
+        ],
+        "genres": [
+          "j-pop"
+        ]
+      },
+      "status": "listened",
+      "rating": 7.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-01T13:48:41.498Z",
+      "updatedAt": "2026-10-01T13:48:43.928Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "8e9244d1-0593-3720-a9a2-a30c91fddd79",
+        "source": "musicbrainz",
+        "title": "冷血动物",
+        "titleAliases": [],
+        "artist": "冷血动物",
+        "year": "2000",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "b5c155d1-9179-4739-9ea1-35c658a32446",
+            "name": "谢天笑与冷血动物",
+            "aliases": [
+              "Cold Blooded Animal",
+              "冷血動物",
+              "Xie Tianxiao and Cold Blooded Animal",
+              "谢天笑与冷血动物",
+              "冷血动物"
+            ]
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-01T13:50:34.298Z",
+      "updatedAt": "2026-10-01T13:50:37.433Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "a554e88e-02b2-4e06-9219-8f7af1bc06a5",
+        "source": "musicbrainz",
+        "title": "Swing",
+        "titleAliases": [],
+        "artist": "Swing",
+        "year": "2000",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "3e39ef34-c929-405d-8ac0-e62cef0b9329",
+            "name": "Swing",
+            "aliases": [
+              "Swing",
+              "Snowman"
+            ]
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 7,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-01T13:50:46.516Z",
+      "updatedAt": "2026-10-01T13:50:52.088Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "0b3afb3c-fa99-4377-a796-d83c1a684737",
+        "source": "musicbrainz",
+        "title": "冀西南林路行",
+        "titleAliases": [],
+        "artist": "万能青年旅店",
+        "year": "2020",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "4cd1ce8c-469e-4ff6-a987-59819b975a85",
+            "name": "万能青年旅店",
+            "aliases": [
+              "万能青年旅店",
+              "Omnipotent Youth Society",
+              "Wànnéng Qīngnián Lǚdiàn",
+              "萬能青年旅店"
+            ]
+          }
+        ],
+        "genres": [
+          "art rock",
+          "rock",
+          "jazz rock"
+        ]
+      },
+      "status": "listened",
+      "rating": 10,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-22T08:46:38.284Z",
+      "updatedAt": "2026-10-01T13:51:13.545Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "7b856df6-fbd6-4276-8453-fb0c55db36c4",
+        "source": "musicbrainz",
+        "title": "拜金小姐",
+        "titleAliases": [],
+        "artist": "拜金小姐",
+        "year": "2004",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "12308f5d-c049-41ef-ab1d-6c6e86cb7c05",
+            "name": "拜金小姐",
+            "aliases": []
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 6.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-01T13:51:35.093Z",
+      "updatedAt": "2026-10-01T13:51:44.514Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "74754692-04f3-4d94-aebc-dcc129508315",
+        "source": "musicbrainz",
+        "title": "陈婧霏",
+        "titleAliases": [],
+        "artist": "陈婧霏",
+        "year": "2020",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "24a66ae1-5926-49a1-a9f0-c32571ecca3b",
+            "name": "陈婧霏",
+            "aliases": [
+              "Jingfei Chen",
+              "陳婧霏"
+            ]
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 7.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-01T13:52:08.124Z",
+      "updatedAt": "2026-10-01T13:52:10.576Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "67cd8314-bdfc-3023-b4d0-46a0b06ff819",
+        "source": "musicbrainz",
+        "title": "Mariah Carey",
+        "titleAliases": [],
+        "artist": "Mariah Carey",
+        "year": "1990",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "494e8d09-f85b-4543-892f-a5096aed1cd4",
+            "name": "Mariah Carey",
+            "aliases": [
+              "マライア・キャリー",
+              "Mariah Carey",
+              "Carey, Mariah",
+              "Mariah"
+            ]
+          }
+        ],
+        "genres": [
+          "electronic",
+          "pop",
+          "dance-pop",
+          "adult contemporary",
+          "contemporary r&b",
+          "rock",
+          "hip hop",
+          "synth-pop",
+          "ballad",
+          "urban"
+        ]
+      },
+      "status": "listened",
+      "rating": 7.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-01T13:52:28.846Z",
+      "updatedAt": "2026-10-01T13:52:32.506Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "58f8bf87-36c3-4b38-a46b-21b7f6da1416",
+        "source": "musicbrainz",
+        "title": "新长征路上的摇滚",
+        "titleAliases": [],
+        "artist": "崔健",
+        "year": "1989",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "d457f05e-8802-4888-83a6-b07d3df3bbf3",
+            "name": "崔健",
+            "aliases": [
+              "崔健",
+              "Cui Jian"
+            ]
+          }
+        ],
+        "genres": [
+          "rock",
+          "singer-songwriter",
+          "new wave",
+          "folk rock",
+          "jazz rock",
+          "art rock",
+          "chinese folk music",
+          "xibei feng"
+        ]
+      },
+      "status": "listened",
+      "rating": 8.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-01T13:52:49.627Z",
+      "updatedAt": "2026-10-01T13:52:55.433Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "ea88b09b-fd34-33cf-a3e5-25a3a2fb4c6f",
+        "source": "musicbrainz",
+        "title": "Songs in the Key of Life",
+        "titleAliases": [
+          "Songs In The Key Of Life",
+          "Songs in the Key of Life (Remastered)",
+          "Songs in the Key of Life Vol. 2"
+        ],
+        "artist": "Stevie Wonder",
+        "year": "1976",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e",
+            "name": "Stevie Wonder",
+            "aliases": [
+              "Stevie Wonder",
+              "スティーヴィー・ワンダー",
+              "Стиви Уандер",
+              "Little Stevie Wonder",
+              "Wonder",
+              "Stevland Hardaway Judkins",
+              "Stevland Hardaway Morris"
+            ]
+          }
+        ],
+        "genres": [
+          "soul",
+          "pop soul",
+          "contemporary r&b",
+          "classic soul r b",
+          "pop",
+          "funk",
+          "smooth soul",
+          "r&b",
+          "r b",
+          "r b soul"
+        ]
+      },
+      "status": "listened",
+      "rating": 8.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-01T13:53:19.027Z",
+      "updatedAt": "2026-10-01T13:53:23.527Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "d5f17e3a-6d72-41e8-8695-59f96c244297",
+        "source": "musicbrainz",
+        "title": "幸福的旁边",
+        "titleAliases": [],
+        "artist": "花儿乐队",
+        "year": "1999",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "70db2ec2-dde6-411c-a050-c36494e9db53",
+            "name": "花儿乐队",
+            "aliases": [
+              "花兒樂隊",
+              "花儿乐队",
+              "The Flowers"
+            ]
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 8.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-08T02:03:06.041Z",
+      "updatedAt": "2026-10-08T02:03:08.689Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "apple-TW-1631567199",
+        "source": "apple",
+        "title": "甜蜜生活",
+        "artist": "魏如萱",
+        "year": "2007",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "apple-426913195",
+            "name": "魏如萱"
+          }
+        ],
+        "genres": [
+          "華語流行樂"
+        ]
+      },
+      "status": "listened",
+      "rating": 8,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-08T02:03:16.907Z",
+      "updatedAt": "2026-10-08T02:03:18.897Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "06ef6e2b-d593-4923-8791-99c41f748320",
+        "source": "musicbrainz",
+        "title": "Birdy",
+        "titleAliases": [],
+        "artist": "Birdy",
+        "year": "2011",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "1b8bdee5-783a-4eca-88e5-3e9460739546",
+            "name": "Birdy",
+            "aliases": [
+              "Jasmine van den Bogaerde",
+              "Jasmine Lucilla Elizabeth Jennifer van den Bogaerde",
+              "Jasmine Lucilla Elisabeth van den Bogaerde"
+            ]
+          }
+        ],
+        "genres": [
+          "pop",
+          "acoustic",
+          "indie pop",
+          "adult contemporary",
+          "chamber pop",
+          "art pop",
+          "rock",
+          "indie rock",
+          "indie folk",
+          "pop rock"
+        ]
+      },
+      "status": "listened",
+      "rating": 7,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-08T02:03:27.325Z",
+      "updatedAt": "2026-10-08T02:03:31.773Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "a24b97ad-7e1e-395f-a2b9-17ce41e0279d",
+        "source": "musicbrainz",
+        "title": "GUILTY",
+        "titleAliases": [],
+        "artist": "浜崎あゆみ",
+        "year": "2008",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "2b615bcf-baa0-4657-b9a5-1a5f34c386c4",
+            "name": "浜崎あゆみ",
+            "aliases": [
+              "Ayumi Hamasaki",
+              "濱崎步",
+              "浜崎あゆみ",
+              "浜崎步",
+              "浜崎くるみ",
+              "浜崎 くるみ",
+              "浜﨑あゆみ",
+              "Ayu"
+            ]
+          }
+        ],
+        "genres": [
+          "pop",
+          "rock",
+          "japanese",
+          "j-pop",
+          "jpop",
+          "international",
+          "pop/rock"
+        ]
+      },
+      "status": "listened",
+      "rating": 7,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-08T02:03:42.971Z",
+      "updatedAt": "2026-10-08T02:03:46.834Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "7746adab-0ff7-4611-87b8-6ec97f71f198",
+        "source": "musicbrainz",
+        "title": "THE STILL LIFE",
+        "titleAliases": [],
+        "artist": "平井堅",
+        "year": "2016",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "0a3ca23c-a730-4bae-b99e-c90e12566a35",
+            "name": "平井堅",
+            "aliases": [
+              "Ken Hirai",
+              "平井堅",
+              "平井 堅"
+            ]
+          }
+        ],
+        "genres": [
+          "pop",
+          "soul"
+        ]
+      },
+      "status": "listened",
+      "rating": 7.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-08T02:04:00.302Z",
+      "updatedAt": "2026-10-08T02:04:04.045Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "42c05246-8e34-41cb-82a5-4f5f27e81d7d",
+        "source": "musicbrainz",
+        "title": "our hope",
+        "titleAliases": [],
+        "artist": "羊文学",
+        "year": "2022",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "cd8858ea-73c4-4c8f-8fcc-5aba0b877688",
+            "name": "羊文学",
+            "aliases": [
+              "羊文学",
+              "羊文學",
+              "Hitsujibungaku",
+              "Hitsuji Bungaku"
+            ]
+          }
+        ],
+        "genres": [
+          "alternative rock",
+          "shoegaze",
+          "indie rock",
+          "rock",
+          "pop",
+          "j-rock"
+        ]
+      },
+      "status": "listened",
+      "rating": 8.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-08T02:04:21.706Z",
+      "updatedAt": "2026-10-08T02:04:24.866Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "f32fab67-77dd-3937-addc-9062e28e4c37",
+        "source": "musicbrainz",
+        "title": "Thriller",
+        "titleAliases": [
+          "Thriller 40",
+          "Thriller 25",
+          "Thriller 25 Super Deluxe Edition",
+          "Thriller 25: The World’s Biggest Selling Album of All Time"
+        ],
+        "artist": "Michael Jackson",
+        "year": "1982",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+            "name": "Michael Jackson",
+            "aliases": [
+              "Majkl Džekson",
+              "Мајкл Џексон",
+              "迈克尔·杰克逊",
+              "マイケル・ジャクソン",
+              "마이클 잭슨",
+              "Michael Jackson",
+              "Michael Joe Jackson",
+              "JACKSON MICHAEL JOE"
+            ]
+          }
+        ],
+        "genres": [
+          "pop",
+          "contemporary r&b",
+          "dance-pop",
+          "disco",
+          "funk",
+          "r&b",
+          "adult contemporary r&b",
+          "rock",
+          "pop soul",
+          "trance"
+        ]
+      },
+      "status": "listened",
+      "rating": 9.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-08T02:04:35.020Z",
+      "updatedAt": "2026-10-08T02:04:37.659Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "03e5460f-f1a8-451c-9780-27d81aa03108",
+        "source": "musicbrainz",
+        "title": "Portraits",
+        "titleAliases": [],
+        "artist": "Birdy",
+        "year": "2023",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "1b8bdee5-783a-4eca-88e5-3e9460739546",
+            "name": "Birdy",
+            "aliases": [
+              "Jasmine van den Bogaerde",
+              "Jasmine Lucilla Elizabeth Jennifer van den Bogaerde",
+              "Jasmine Lucilla Elisabeth van den Bogaerde"
+            ]
+          }
+        ],
+        "genres": [
+          "pop",
+          "rock",
+          "electronic",
+          "synth-pop",
+          "baroque pop",
+          "indie pop",
+          "pop rock",
+          "english",
+          "synthwave",
+          "offizielle charts"
+        ]
+      },
+      "status": "listened",
+      "rating": 6,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-08T02:04:52.359Z",
+      "updatedAt": "2026-10-08T02:04:57.175Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "afa278e2-befe-3d05-95d3-c416dd3f27fe",
+        "source": "musicbrainz",
+        "title": "艳阳天",
+        "titleAliases": [
+          "豔陽天"
+        ],
+        "artist": "窦唯",
+        "year": "1995",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "57488107-e763-4955-abc2-f279548ffe9a",
+            "name": "窦唯",
+            "aliases": [
+              "Wei Dou",
+              "ñ¼Î¨",
+              "竇唯",
+              "鬄峔"
+            ]
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 7.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-08T02:05:08.071Z",
+      "updatedAt": "2026-10-08T02:05:13.555Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "8f310800-045b-3e12-8268-50b3d33a2267",
+        "source": "musicbrainz",
+        "title": "In the Aeroplane Over the Sea",
+        "titleAliases": [],
+        "artist": "Neutral Milk Hotel",
+        "year": "1998",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "a506f761-2c22-4b2f-8a94-bd748c2c8f75",
+            "name": "Neutral Milk Hotel",
+            "aliases": [
+              "Neutral Milk Hotel",
+              "Neutral Milk"
+            ]
+          }
+        ],
+        "genres": [
+          "indie rock",
+          "indie folk",
+          "lo-fi",
+          "rock",
+          "alternative rock",
+          "noise pop",
+          "psychedelic folk",
+          "elephant 6",
+          "alternative and punk",
+          "brass band"
+        ]
+      },
+      "status": "listened",
+      "rating": 8.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-08T02:05:29.709Z",
+      "updatedAt": "2026-10-08T02:05:37.097Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "e0ac3da3-5279-47de-9e42-8d06897962fb",
+        "source": "musicbrainz",
+        "title": "角度",
+        "titleAliases": [
+          "Angle - 角度",
+          "Angle"
+        ],
+        "artist": "大象體操",
+        "year": "2014",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "9fdc68d1-98ac-463c-a309-181b58c74aed",
+            "name": "大象體操",
+            "aliases": [
+              "エレファントジム",
+              "Elephant Gym"
+            ]
+          }
+        ],
+        "genres": [
+          "math rock",
+          "post-rock",
+          "rock",
+          "jazz fusion",
+          "math pop"
+        ]
+      },
+      "status": "listened",
+      "rating": 7,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-08T02:05:44.530Z",
+      "updatedAt": "2026-10-08T02:05:48.842Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "2f725990-0429-48f1-aa36-7399ee7a723f",
+        "source": "musicbrainz",
+        "title": "孤独的人是可耻的",
+        "titleAliases": [],
+        "artist": "张楚",
+        "year": "1994",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "7b7a56fd-3bd0-4df3-b83f-b944fead64bd",
+            "name": "张楚",
+            "aliases": [
+              "張楚",
+              "Zhāng Chǔ",
+              "Zhang Chu"
+            ]
+          }
+        ],
+        "genres": [
+          "rock",
+          "chinese",
+          "folk rock"
+        ]
+      },
+      "status": "listened",
+      "rating": 8,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-08T02:05:59.903Z",
+      "updatedAt": "2026-10-08T02:06:02.906Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "671e04d6-3903-374b-8e48-621383408b6f",
+        "source": "musicbrainz",
+        "title": "This Is the One",
+        "titleAliases": [
+          "This Is The One"
+        ],
+        "artist": "Utada",
+        "year": "2009",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "b539e453-c4fe-47e3-8a07-8517eac74429",
+            "name": "宇多田ヒカル",
+            "aliases": [
+              "Hikaru Utada",
+              "宇多田光",
+              "Utada Hikaru",
+              "宇多田ヒカル",
+              "Utada",
+              "Hikki",
+              "Cubic U",
+              "우타다히카루"
+            ]
+          }
+        ],
+        "genres": [
+          "pop",
+          "j-pop"
+        ]
+      },
+      "status": "listened",
+      "rating": 7,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-08T02:09:47.251Z",
+      "updatedAt": "2026-10-08T02:09:51.345Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "f2026101-945b-3d05-9ef4-aa718fc3feef",
+        "source": "musicbrainz",
+        "title": "The Wall",
+        "titleAliases": [],
+        "artist": "Pink Floyd",
+        "year": "1979",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "83d91898-7763-47d7-b03b-b92132375c47",
+            "name": "Pink Floyd",
+            "aliases": [
+              "핑크 플로이드",
+              "Pink Floyd",
+              "ピンク・フロイド"
+            ]
+          }
+        ],
+        "genres": [
+          "progressive rock",
+          "rock",
+          "art rock",
+          "classic rock",
+          "album rock",
+          "hard rock",
+          "psychedelic rock",
+          "pop",
+          "prog-rock",
+          "alternative rock"
+        ]
+      },
+      "status": "listened",
+      "rating": 7,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-08T02:10:01.806Z",
+      "updatedAt": "2026-10-08T02:10:04.191Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "f5093c06-23e3-404f-aeaa-40f72885ee3a",
+        "source": "musicbrainz",
+        "title": "The Dark Side of the Moon",
+        "titleAliases": [
+          "Dark Side of the Moon",
+          "狂気"
+        ],
+        "artist": "Pink Floyd",
+        "year": "1973",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "83d91898-7763-47d7-b03b-b92132375c47",
+            "name": "Pink Floyd",
+            "aliases": [
+              "핑크 플로이드",
+              "Pink Floyd",
+              "ピンク・フロイド"
+            ]
+          }
+        ],
+        "genres": [
+          "progressive rock",
+          "rock",
+          "psychedelic rock",
+          "art rock",
+          "album rock",
+          "classic rock",
+          "concept album",
+          "ambient",
+          "space rock",
+          "atmospheric"
+        ]
+      },
+      "status": "listened",
+      "rating": 9,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-08T02:10:29.803Z",
+      "updatedAt": "2026-10-08T02:10:35.835Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "0266bc3c-2456-44be-99d2-c779fce923ff",
+        "source": "musicbrainz",
+        "title": "陶喆",
+        "titleAliases": [
+          "David Tao"
+        ],
+        "artist": "陶喆",
+        "year": "1997",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "38fe7fb3-2bde-4672-8016-2ba6f7d1808f",
+            "name": "陶喆",
+            "aliases": [
+              "陶喆",
+              "David Tao",
+              "Syu-Jhong Tao",
+              "Xu-Zhong Tao",
+              "Jhe Tao",
+              "Zhe Tao",
+              "Ji Tao",
+              "陶绪忠"
+            ]
+          }
+        ],
+        "genres": [
+          "mandopop",
+          "pop soul",
+          "contemporary r&b"
+        ]
+      },
+      "status": "listened",
+      "rating": 10,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-08T02:10:45.440Z",
+      "updatedAt": "2026-10-08T02:10:46.903Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "5a6ab2b2-952e-3731-a36d-8762c21c2d23",
+        "source": "musicbrainz",
+        "title": "Groupies 吉他手",
+        "titleAliases": [
+          "Groupies"
+        ],
+        "artist": "陳綺貞",
+        "year": "2002",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "3a71842d-b291-4991-a30d-9d8328a26d3e",
+            "name": "陳綺貞",
+            "aliases": [
+              "Cheer Chen",
+              "陈绮贞",
+              "Yizhen Chen",
+              "Chen Qi Zhen",
+              "Yee Ching Chan"
+            ]
+          }
+        ],
+        "genres": [
+          "singer-songwriter",
+          "folk pop",
+          "mandopop"
+        ]
+      },
+      "status": "listened",
+      "rating": 9.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-08T02:11:04.633Z",
+      "updatedAt": "2026-10-08T02:11:07.731Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "62017562-0c96-43c6-937d-f6feeeb6caca",
+        "source": "musicbrainz",
+        "title": "Young Heart",
+        "titleAliases": [],
+        "artist": "Birdy",
+        "year": "2021",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "1b8bdee5-783a-4eca-88e5-3e9460739546",
+            "name": "Birdy",
+            "aliases": [
+              "Jasmine van den Bogaerde",
+              "Jasmine Lucilla Elizabeth Jennifer van den Bogaerde",
+              "Jasmine Lucilla Elisabeth van den Bogaerde"
+            ]
+          }
+        ],
+        "genres": [
+          "pop",
+          "rock",
+          "indie rock",
+          "soft rock"
+        ]
+      },
+      "status": "listened",
+      "rating": 9,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-08T05:42:22.140Z",
+      "updatedAt": "2026-10-08T05:42:27.245Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "0164d77e-0e07-42e4-9f28-c03b39a8ece5",
+        "source": "musicbrainz",
+        "title": "收斂水",
+        "titleAliases": [
+          "Lotion",
+          "收敛水"
+        ],
+        "artist": "蛋堡",
+        "year": "2009",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "7e4448d1-4ee1-40fa-9f81-38fa6caa131e",
+            "name": "蛋堡",
+            "aliases": [
+              "蛋堡",
+              "Soft Lipa",
+              "蛋堡 Softlipa"
+            ]
+          }
+        ],
+        "genres": [
+          "hip hop"
+        ]
+      },
+      "status": "listened",
+      "rating": 9,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-08T05:42:54.979Z",
+      "updatedAt": "2026-10-08T05:42:59.014Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "a73cecde-0923-40ad-aad1-e8c24ba6c3d2",
+        "source": "musicbrainz",
+        "title": "Red",
+        "titleAliases": [
+          "Red = 红",
+          "Red (Big Machine Radio release special)",
+          "Red (limited edition)",
+          "Red (Valentine's Day edition)"
+        ],
+        "artist": "Taylor Swift",
+        "year": "2012",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "20244d07-534f-4eff-b4d4-930878889970",
+            "name": "Taylor Swift",
+            "aliases": [
+              "泰勒丝",
+              "泰勒·斯威夫特",
+              "טעילאר סוויפט",
+              "ٹیلر سوئفٹ",
+              "Тейлор Свіфт",
+              "Teýlor Swift",
+              "เทย์เลอร์ สวิฟต์",
+              "టేలర్ స్విఫ్ట్"
+            ]
+          }
+        ],
+        "genres": [
+          "country",
+          "pop",
+          "country pop",
+          "singer-songwriter",
+          "pop rock",
+          "contemporary country",
+          "alternative rock",
+          "heartland rock",
+          "english",
+          "offizielle charts"
+        ]
+      },
+      "status": "listened",
+      "rating": 8,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-08T05:44:34.991Z",
+      "updatedAt": "2026-10-08T05:44:38.344Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "apple-TW-1440787068",
+        "source": "apple",
+        "title": "Adult",
+        "artist": "東京事變",
+        "year": "2006",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "apple-74570585",
+            "name": "東京事變"
+          }
+        ],
+        "genres": [
+          "搖滾"
+        ]
+      },
+      "status": "listened",
+      "rating": 9,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-29T17:20:06.834Z",
+      "updatedAt": "2026-10-08T05:58:54.485Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "923db16c-6620-3e44-ba00-a20745c6a957",
+        "source": "musicbrainz",
+        "title": "無罪モラトリアム",
+        "titleAliases": [],
+        "artist": "椎名林檎",
+        "year": "1999",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "9e414497-23b7-4ab7-9ec6-8ea9864c9e87",
+            "name": "椎名林檎",
+            "aliases": [
+              "Ringo Shiina",
+              "椎名林檎",
+              "Sheena Ringo",
+              "椎名 林檎",
+              "椎名裕美子",
+              "Shiina, Ringo",
+              "Shéna Ringo",
+              "Shiina Ringo"
+            ]
+          }
+        ],
+        "genres": [
+          "rock",
+          "j-pop",
+          "jazz rock",
+          "alternative r&b"
+        ]
+      },
+      "status": "listened",
+      "rating": 10,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-09-29T17:20:43.704Z",
+      "updatedAt": "2026-10-08T05:59:25.025Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "1646286a-d0ad-4288-bfab-34b0fb7b22c1",
+        "source": "musicbrainz",
+        "title": "SOS",
+        "titleAliases": [
+          "SOS Deluxe: Lana",
+          "SOS Deluxe: LANA",
+          "愛情警報 SOS"
+        ],
+        "artist": "SZA",
+        "year": "2022",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "272989c8-5535-492d-a25c-9f58803e027f",
+            "name": "SZA",
+            "aliases": [
+              "Solána Imani Rowe"
+            ]
+          }
+        ],
+        "genres": [
+          "contemporary r&b",
+          "r&b",
+          "soul",
+          "pop",
+          "english",
+          "offizielle charts",
+          "5+ wochen"
+        ]
+      },
+      "status": "listened",
+      "rating": 5.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-08T06:25:53.105Z",
+      "updatedAt": "2026-10-08T06:25:56.320Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "c1fa4d2c-ec62-37d5-b01d-6df7f8fd2c90",
+        "source": "musicbrainz",
+        "title": "What’s Going On",
+        "titleAliases": [
+          "What's Going On",
+          "What’s Going On: The Detroit Mix"
+        ],
+        "artist": "Marvin Gaye",
+        "year": "1971",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "afdb7919-059d-43c1-b668-ba1d265e7e42",
+            "name": "Marvin Gaye",
+            "aliases": [
+              "Marvin Pentz Gay, Jr.",
+              "Marvin Gay",
+              "Marvine Gaye",
+              "Marving Gaye",
+              "Marvin P. Gaye"
+            ]
+          }
+        ],
+        "genres": [
+          "soul",
+          "r&b",
+          "rhythm & blues",
+          "motown",
+          "funk soul",
+          "am pop",
+          "smooth soul",
+          "progressive soul",
+          "political",
+          "concept album"
+        ]
+      },
+      "status": "listened",
+      "rating": 8,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T06:46:43.198Z",
+      "updatedAt": "2026-10-29T06:46:46.759Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "0740e134-c8e8-4a63-ac95-8c9beb4fe120",
+        "source": "musicbrainz",
+        "title": "落霞集",
+        "titleAliases": [],
+        "artist": "上海彩虹室内合唱团",
+        "year": "2019",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "7dadd6fb-b30e-4e9d-8b56-5fa53caec072",
+            "name": "上海彩虹室内合唱团",
+            "aliases": [
+              "Shanghai Rainbow Chamber Singers",
+              "上海彩虹室內合唱團"
+            ]
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 8.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T06:46:55.183Z",
+      "updatedAt": "2026-10-29T06:46:59.625Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "apple-TW-1524443761",
+        "source": "apple",
+        "title": "成長小說",
+        "artist": "海朋森",
+        "year": "2020",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "apple-1230349084",
+            "name": "海朋森"
+          }
+        ],
+        "genres": [
+          "獨立流行樂"
+        ]
+      },
+      "status": "listened",
+      "rating": 8.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T06:47:08.760Z",
+      "updatedAt": "2026-10-29T06:47:10.947Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "a695e424-ab39-33e6-9fb9-8a5ef8282cb1",
+        "source": "musicbrainz",
+        "title": "宇宙 日本 世田谷",
+        "titleAliases": [
+          "Uchu Nippon Setagaya"
+        ],
+        "artist": "Fishmans",
+        "year": "1997",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "d0f25f16-7782-42e8-8047-c16a1cb2b450",
+            "name": "フィッシュマンズ",
+            "aliases": [
+              "Fishmans"
+            ]
+          }
+        ],
+        "genres": [
+          "dub",
+          "rock",
+          "downtempo",
+          "pop",
+          "reggae",
+          "j-pop",
+          "neo-psychedelia",
+          "dream pop",
+          "rocksteady",
+          "trip hop"
+        ]
+      },
+      "status": "listened",
+      "rating": 7.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T06:47:26.514Z",
+      "updatedAt": "2026-10-29T06:47:31.433Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "a0b94d0a-210b-4b15-bd1d-93be2196c14a",
+        "source": "musicbrainz",
+        "title": "Appetite for Destruction",
+        "titleAliases": [],
+        "artist": "Guns N' Roses",
+        "year": "1987",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "eeb1195b-f213-4ce1-b28c-8565211f8e43",
+            "name": "Guns N’ Roses",
+            "aliases": [
+              "ガンズ・アンド・ローゼズ",
+              "Guns and Roses",
+              "Guns -N- Roses",
+              "guns 'n' roses",
+              "Guns'N Roses",
+              "Guns'N'Roses",
+              "GNR",
+              "Guns´n Roses"
+            ]
+          }
+        ],
+        "genres": [
+          "hard rock",
+          "rock",
+          "heavy metal",
+          "glam metal",
+          "metal",
+          "heavy",
+          "melodic",
+          "urban",
+          "sexual",
+          "drugs"
+        ]
+      },
+      "status": "listened",
+      "rating": 7,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T06:48:00.929Z",
+      "updatedAt": "2026-10-29T06:48:03.978Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "e9585ed4-d148-3711-bbee-55a97b58325a",
+        "source": "musicbrainz",
+        "title": "The Eminem Show",
+        "titleAliases": [
+          "The Eminem Show (Expanded Edition)"
+        ],
+        "artist": "Eminem",
+        "year": "2002",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+            "name": "Eminem",
+            "aliases": [
+              "에미넴",
+              "エミネム",
+              "Eminem",
+              "Marshall Mathers",
+              "Marshall Bruce Mathers III",
+              "Slim Shady",
+              "M&M",
+              "Em"
+            ]
+          }
+        ],
+        "genres": [
+          "hip hop",
+          "hardcore hip hop",
+          "detroit hip-hop",
+          "pop rap",
+          "political hip hop",
+          "political",
+          "rap",
+          "hardcore rap",
+          "sexual",
+          "sampling"
+        ]
+      },
+      "status": "listened",
+      "rating": 9,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T06:48:13.405Z",
+      "updatedAt": "2026-10-29T06:48:16.017Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "6d12df35-f81f-328f-b343-978938b2a3f4",
+        "source": "musicbrainz",
+        "title": "LOVEppears",
+        "titleAliases": [],
+        "artist": "浜崎あゆみ",
+        "year": "1999",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "2b615bcf-baa0-4657-b9a5-1a5f34c386c4",
+            "name": "浜崎あゆみ",
+            "aliases": [
+              "Ayumi Hamasaki",
+              "濱崎步",
+              "浜崎あゆみ",
+              "浜崎步",
+              "浜崎くるみ",
+              "浜崎 くるみ",
+              "浜﨑あゆみ",
+              "Ayu"
+            ]
+          }
+        ],
+        "genres": [
+          "trance",
+          "electronic",
+          "downtempo",
+          "pop",
+          "house",
+          "j-pop",
+          "for sale or swap"
+        ]
+      },
+      "status": "listened",
+      "rating": 5.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T06:48:30.216Z",
+      "updatedAt": "2026-10-29T06:48:34.883Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "29ab8602-82ee-392e-b75f-5f36a7d35625",
+        "source": "musicbrainz",
+        "title": "勝訴ストリップ",
+        "titleAliases": [
+          "Shouso Strip - Winning Strip"
+        ],
+        "artist": "椎名林檎",
+        "year": "2000",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "9e414497-23b7-4ab7-9ec6-8ea9864c9e87",
+            "name": "椎名林檎",
+            "aliases": [
+              "Ringo Shiina",
+              "椎名林檎",
+              "Sheena Ringo",
+              "椎名 林檎",
+              "椎名裕美子",
+              "Shiina, Ringo",
+              "Shéna Ringo",
+              "Shiina Ringo"
+            ]
+          }
+        ],
+        "genres": [
+          "rock",
+          "alternative rock",
+          "j-pop"
+        ]
+      },
+      "status": "listened",
+      "rating": 8,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T06:48:43.422Z",
+      "updatedAt": "2026-10-29T06:48:47.342Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "88ad0bc2-5498-4372-a42a-28843dc1c9a7",
+        "source": "musicbrainz",
+        "title": "HeartBreakFast 傷心早餐店",
+        "titleAliases": [],
+        "artist": "盧廣仲",
+        "year": "2025",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "2ccc975f-ea40-4f0e-b861-8d80f967fe81",
+            "name": "盧廣仲",
+            "aliases": [
+              "Crowd Lu",
+              "クラウド・ルー",
+              "卢广仲"
+            ]
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 8.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T06:49:01.815Z",
+      "updatedAt": "2026-10-29T06:49:04.503Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "apple-TW-161876832",
+        "source": "apple",
+        "title": "駱駝‧飛鳥‧魚",
+        "artist": "齊豫",
+        "year": "1997",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "apple-368676287",
+            "name": "齊豫"
+          }
+        ],
+        "genres": [
+          "華語流行樂"
+        ]
+      },
+      "status": "listened",
+      "rating": 10,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T06:49:19.433Z",
+      "updatedAt": "2026-10-29T06:49:21.454Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "c563d738-3841-31ce-b29d-ec6b40fd1e7b",
+        "source": "musicbrainz",
+        "title": "Late Registration",
+        "titleAliases": [],
+        "artist": "Kanye West",
+        "year": "2005",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "164f0d73-1234-4e2c-8743-d77bf2191051",
+            "name": "Ye",
+            "aliases": [
+              "Ye",
+              "Kanye West",
+              "カニエ・ウェスト",
+              "Donda",
+              "Kanye",
+              "Yeezy",
+              "Kanye Omari West"
+            ]
+          }
+        ],
+        "genres": [
+          "hip hop",
+          "conscious hip hop",
+          "alternative rap",
+          "pop rap",
+          "neo-soul",
+          "rap",
+          "hip-hop",
+          "east coast rap",
+          "midwestern rap",
+          "rerip hip-hop"
+        ]
+      },
+      "status": "listened",
+      "rating": 9,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T06:49:33.455Z",
+      "updatedAt": "2026-10-29T06:49:36.534Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "aeaecbec-556d-3b72-bfdf-dda0637db940",
+        "source": "musicbrainz",
+        "title": "華麗的冒險",
+        "titleAliases": [],
+        "artist": "陳綺貞",
+        "year": "2005",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "3a71842d-b291-4991-a30d-9d8328a26d3e",
+            "name": "陳綺貞",
+            "aliases": [
+              "Cheer Chen",
+              "陈绮贞",
+              "Yizhen Chen",
+              "Chen Qi Zhen",
+              "Yee Ching Chan"
+            ]
+          }
+        ],
+        "genres": [
+          "singer-songwriter",
+          "mandopop"
+        ]
+      },
+      "status": "listened",
+      "rating": 9.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T06:49:43.076Z",
+      "updatedAt": "2026-10-29T06:49:46.305Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "0837aca2-319e-3f2f-a2d3-c525802068d6",
+        "source": "musicbrainz",
+        "title": "Let Go",
+        "titleAliases": [],
+        "artist": "Avril Lavigne",
+        "year": "2002",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "0103c1cc-4a09-4a5d-a344-56ad99a77193",
+            "name": "Avril Lavigne",
+            "aliases": [
+              "Avril Lavigne",
+              "艾薇儿",
+              "アヴリル・ラヴィーン",
+              "Avril Ramona Lavigne",
+              "Avril Ramona Lavigne Kroeger",
+              "Avril Ramona Lavigne Whibley"
+            ]
+          }
+        ],
+        "genres": [
+          "pop",
+          "alternative rock",
+          "pop rock",
+          "rock",
+          "pop punk",
+          "teen rock",
+          "teen pop",
+          "pop/rock",
+          "adult alternative pop/rock",
+          "alternative"
+        ]
+      },
+      "status": "listened",
+      "rating": 8,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T06:51:21.309Z",
+      "updatedAt": "2026-10-29T06:51:25.860Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "apple-TW-1385320232",
+        "source": "apple",
+        "title": "Karuki Zahmen Kuri No Hana - Kalk Samen Chestnut Flower",
+        "artist": "椎名林檎",
+        "year": "2003",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "apple-74576999",
+            "name": "椎名林檎"
+          }
+        ],
+        "genres": [
+          "日本流行樂"
+        ]
+      },
+      "status": "listened",
+      "rating": 10,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T06:52:00.826Z",
+      "updatedAt": "2026-10-29T06:52:01.732Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "c78cf5af-3a6a-3ab1-a06b-5457059b91a7",
+        "source": "musicbrainz",
+        "title": "愛愛愛",
+        "titleAliases": [],
+        "artist": "方大同",
+        "year": "2006",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "081f97c3-2ae9-4698-aa43-88ccb58af4d5",
+            "name": "方大同",
+            "aliases": [
+              "方大同",
+              "Khalil Fong",
+              "Khalil Fong Tai Tung"
+            ]
+          }
+        ],
+        "genres": [
+          "mandopop",
+          "pop soul",
+          "contemporary r&b"
+        ]
+      },
+      "status": "listened",
+      "rating": 9,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T06:52:14.348Z",
+      "updatedAt": "2026-10-29T06:52:17.121Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "2b8f453f-ffd6-4860-8742-7cff1c2feae3",
+        "source": "musicbrainz",
+        "title": "petal",
+        "titleAliases": [],
+        "artist": "Ariana Grande",
+        "year": "2026",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",
+            "name": "Ariana Grande",
+            "aliases": [
+              "ئاریانا گراندێی",
+              "آریانا گرانده",
+              "أريانا غراندي",
+              "아리아나 그란데",
+              "אריאנא גראנדע",
+              "艾尼安娜格兰德",
+              "爱莉安娜·格兰德",
+              "アリアナ・グランデ"
+            ]
+          }
+        ],
+        "genres": [
+          "pop",
+          "contemporary r&b",
+          "alternative pop",
+          "english",
+          "offizielle charts",
+          "laut.de",
+          "plattentests.de",
+          "musikexpress.de",
+          "rollingstone.de",
+          "hip hop"
+        ]
+      },
+      "status": "listened",
+      "rating": 7,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T06:52:26.723Z",
+      "updatedAt": "2026-10-29T06:52:29.053Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "apple-TW-1889323700",
+        "source": "apple",
+        "title": "門尼Ⅲ:貴族",
+        "artist": "門尼",
+        "year": "2026",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "apple-1644323176",
+            "name": "門尼"
+          }
+        ],
+        "genres": [
+          "華語流行樂"
+        ]
+      },
+      "status": "listened",
+      "rating": 7.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T06:55:28.403Z",
+      "updatedAt": "2026-10-29T06:55:34.089Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "apple-TW-1769381541",
+        "source": "apple",
+        "title": "門尼Ⅱ:劇場",
+        "artist": "門尼",
+        "year": "2024",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "apple-1644323176",
+            "name": "門尼"
+          }
+        ],
+        "genres": [
+          "華語流行樂"
+        ]
+      },
+      "status": "listened",
+      "rating": 8,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T06:55:35.032Z",
+      "updatedAt": "2026-10-29T06:55:37.025Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "e4174758-d333-4a8e-a31f-dd0edd51518e",
+        "source": "musicbrainz",
+        "title": "21",
+        "titleAliases": [],
+        "artist": "Adele",
+        "year": "2011",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493",
+            "name": "Adele",
+            "aliases": [
+              "アデル",
+              "阿黛尔",
+              "Adele Adkins",
+              "Adele",
+              "Adele Laurie Blue Adkins"
+            ]
+          }
+        ],
+        "genres": [
+          "pop",
+          "pop soul",
+          "blue-eyed soul",
+          "adult alternative pop/rock",
+          "soul",
+          "pop / soul",
+          "pop/rock",
+          "adult contemporary",
+          "english",
+          "поп"
+        ]
+      },
+      "status": "listened",
+      "rating": 7.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T06:55:44.497Z",
+      "updatedAt": "2026-10-29T06:55:46.309Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "27a54d93-207f-4ba6-b2bc-9053373ad342",
+        "source": "musicbrainz",
+        "title": "Popstar",
+        "titleAliases": [],
+        "artist": "Tinashe",
+        "year": "2026",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "396a9525-0994-4542-b480-c4587feeb476",
+            "name": "Tinashe",
+            "aliases": [
+              "Tinashe Jorgenson Kachingwe"
+            ]
+          }
+        ],
+        "genres": [
+          "concept album",
+          "pop rap",
+          "alternative pop",
+          "edm",
+          "atmospheric",
+          "bouncy",
+          "post-dubstep",
+          "alternative r&b",
+          "bassy",
+          "electronic"
+        ]
+      },
+      "status": "listened",
+      "rating": 5.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T06:55:54.221Z",
+      "updatedAt": "2026-10-29T06:55:56.861Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "apple-TW-1440622181",
+        "source": "apple",
+        "title": "Daihakken - Discovery",
+        "artist": "東京事變",
+        "year": "2011",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "apple-74570585",
+            "name": "東京事變"
+          }
+        ],
+        "genres": [
+          "搖滾"
+        ]
+      },
+      "status": "listened",
+      "rating": 7,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T06:56:05.228Z",
+      "updatedAt": "2026-10-29T06:56:08.225Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "apple-US-918568338",
+        "source": "apple",
+        "title": "Larks' Tongues In Aspic (Expanded Edition)",
+        "artist": "King Crimson",
+        "year": "1973",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "apple-627204",
+            "name": "King Crimson"
+          }
+        ],
+        "genres": [
+          "Prog-Rock/Art Rock"
+        ]
+      },
+      "status": "listened",
+      "rating": 7,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T06:56:28.419Z",
+      "updatedAt": "2026-10-29T06:56:30.412Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "c92b6146-4d83-354a-8eda-61f92b9e9335",
+        "source": "musicbrainz",
+        "title": "樹枝孤鳥",
+        "titleAliases": [
+          "Lonely Tree, Lonely Bird"
+        ],
+        "artist": "伍佰 & China Blue",
+        "year": "1998",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "1f240905-1a42-4150-8c81-141eb198885d",
+            "name": "伍佰 & China Blue",
+            "aliases": [
+              "Wu Bai & China Blue",
+              "伍佰&China Blue",
+              "Wubai",
+              "伍佰 and China Blue",
+              "¥î¨Õ+China Blue",
+              "WUBAI & CHINA BLUE",
+              "Wu Bai and China Blue",
+              "Wubai and China Blue"
+            ]
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 6,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T06:56:40.175Z",
+      "updatedAt": "2026-10-29T06:56:42.473Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "apple-US-1440657089",
+        "source": "apple",
+        "title": "Bury the Hatchet (The Complete Sessions 1998-1999)",
+        "artist": "The Cranberries",
+        "year": "2002",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "apple-122615",
+            "name": "The Cranberries"
+          }
+        ],
+        "genres": [
+          "Alternative"
+        ]
+      },
+      "status": "listened",
+      "rating": 8,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T06:56:56.568Z",
+      "updatedAt": "2026-10-29T06:57:06.608Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "8a58cc1a-be0d-3b1b-8d0d-aa8f467a59da",
+        "source": "musicbrainz",
+        "title": "Aerosmith",
+        "titleAliases": [
+          "Make It"
+        ],
+        "artist": "Aerosmith",
+        "year": "1973",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "3d2b98e5-556f-4451-a3ff-c50ea18d57cb",
+            "name": "Aerosmith",
+            "aliases": [
+              "Aerosmith"
+            ]
+          }
+        ],
+        "genres": [
+          "hard rock",
+          "blues rock",
+          "rock",
+          "album rock",
+          "dream on",
+          "contemporary pop/rock",
+          "classic hard rock",
+          "pop/rock",
+          "offizielle charts",
+          "1–4 wochen"
+        ]
+      },
+      "status": "listened",
+      "rating": 7.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T06:57:15.041Z",
+      "updatedAt": "2026-10-29T06:57:18.609Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "6c9ae3dd-32ad-472c-96be-69d0a3536261",
+        "source": "musicbrainz",
+        "title": "The Rise and Fall of Ziggy Stardust and the Spiders From Mars",
+        "titleAliases": [
+          "Waiting in the Sky (Before the Starman Came to Earth)"
+        ],
+        "artist": "David Bowie",
+        "year": "1972",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+            "name": "David Bowie",
+            "aliases": [
+              "Davy Jones",
+              "Ziggy Stardust",
+              "David Robert Jones",
+              "The Thin White Duke",
+              "デビッド・ボウイ",
+              "Davis Bowie",
+              "Bowie",
+              "Davie Bowie"
+            ]
+          }
+        ],
+        "genres": [
+          "rock",
+          "glam rock",
+          "pop rock",
+          "art rock",
+          "classic rock",
+          "album rock",
+          "rock opera",
+          "concept album",
+          "philosophical",
+          "existential"
+        ]
+      },
+      "status": "listened",
+      "rating": 9,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T06:57:50.183Z",
+      "updatedAt": "2026-10-29T06:57:54.165Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "50f8710f-3ae6-319b-85a7-afe783f13449",
+        "source": "musicbrainz",
+        "title": "Aladdin Sane",
+        "titleAliases": [],
+        "artist": "David Bowie",
+        "year": "1973",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+            "name": "David Bowie",
+            "aliases": [
+              "Davy Jones",
+              "Ziggy Stardust",
+              "David Robert Jones",
+              "The Thin White Duke",
+              "デビッド・ボウイ",
+              "Davis Bowie",
+              "Bowie",
+              "Davie Bowie"
+            ]
+          }
+        ],
+        "genres": [
+          "glam rock",
+          "rock",
+          "hard rock",
+          "art rock",
+          "piano rock",
+          "bowie",
+          "pop",
+          "classic rock",
+          "pop rock",
+          "offizielle charts"
+        ]
+      },
+      "status": "listened",
+      "rating": 8,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T06:57:58.262Z",
+      "updatedAt": "2026-10-29T06:58:02.715Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "1f5ef8d3-10ca-30eb-b41e-85b16987d412",
+        "source": "musicbrainz",
+        "title": "“Heroes”",
+        "titleAliases": [
+          "Take Off: “Heroes”"
+        ],
+        "artist": "David Bowie",
+        "year": "1977",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+            "name": "David Bowie",
+            "aliases": [
+              "Davy Jones",
+              "Ziggy Stardust",
+              "David Robert Jones",
+              "The Thin White Duke",
+              "デビッド・ボウイ",
+              "Davis Bowie",
+              "Bowie",
+              "Davie Bowie"
+            ]
+          }
+        ],
+        "genres": [
+          "ambient",
+          "art rock",
+          "electronic",
+          "rock",
+          "experimental",
+          "experimental rock",
+          "art pop",
+          "alternative rock",
+          "krautrock",
+          "progressive"
+        ]
+      },
+      "status": "listened",
+      "rating": 8,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T06:58:38.419Z",
+      "updatedAt": "2026-10-29T06:58:41.385Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "1fd18f5b-9a92-41fd-a590-da6b5cc60d85",
+        "source": "musicbrainz",
+        "title": "★",
+        "titleAliases": [],
+        "artist": "David Bowie",
+        "year": "2016",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+            "name": "David Bowie",
+            "aliases": [
+              "Davy Jones",
+              "Ziggy Stardust",
+              "David Robert Jones",
+              "The Thin White Duke",
+              "デビッド・ボウイ",
+              "Davis Bowie",
+              "Bowie",
+              "Davie Bowie"
+            ]
+          }
+        ],
+        "genres": [
+          "art rock",
+          "experimental rock",
+          "electronic",
+          "rock",
+          "jazz rock",
+          "concept album",
+          "progressive",
+          "death",
+          "avant-garde",
+          "jazz-rock"
+        ]
+      },
+      "status": "listened",
+      "rating": 7,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T06:59:48.198Z",
+      "updatedAt": "2026-10-29T06:59:52.146Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "apple-US-1893641333",
+        "source": "apple",
+        "title": "Forever Autumn",
+        "artist": "Lake of Tears",
+        "year": "1999",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "apple-254023830",
+            "name": "Lake of Tears"
+          }
+        ],
+        "genres": [
+          "Metal"
+        ]
+      },
+      "status": "listened",
+      "rating": 7.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T07:00:30.200Z",
+      "updatedAt": "2026-10-29T07:00:34.865Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "dca03435-8adb-30a5-ba82-5a162267ff38",
+        "source": "musicbrainz",
+        "title": "Rubber Soul",
+        "titleAliases": [
+          "Rubber Soul (2026 mix)"
+        ],
+        "artist": "The Beatles",
+        "year": "1965",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+            "name": "The Beatles",
+            "aliases": [
+              "ビートルズ",
+              "披头士乐队",
+              "披头士",
+              "披頭四",
+              "더 비틀즈",
+              "Los Beatles",
+              "The Beatles",
+              "ザ・ビートルズ"
+            ]
+          }
+        ],
+        "genres": [
+          "rock",
+          "folk rock",
+          "pop rock",
+          "pop",
+          "am pop",
+          "folk pop",
+          "british rhythm & blues",
+          "psychedelic",
+          "britpop",
+          "psychedelic pop"
+        ]
+      },
+      "status": "listened",
+      "rating": 9,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T07:00:54.910Z",
+      "updatedAt": "2026-10-29T07:00:59.003Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "b2cc73b2-0b80-4f59-8782-244b086830e2",
+        "source": "musicbrainz",
+        "title": "Voicenotes",
+        "titleAliases": [
+          "Voicenotes = ヴォイスノーツ"
+        ],
+        "artist": "Charlie Puth",
+        "year": "2018",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+            "name": "Charlie Puth",
+            "aliases": [
+              "チャーリー・プース",
+              "찰리푸스",
+              "Charles Otto Puth Jr."
+            ]
+          }
+        ],
+        "genres": [
+          "contemporary r&b",
+          "pop",
+          "funk",
+          "house",
+          "dance-pop",
+          "funktronica",
+          "pop soul",
+          "nu disco",
+          "synth funk"
+        ]
+      },
+      "status": "listened",
+      "rating": 7.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T07:01:11.834Z",
+      "updatedAt": "2026-10-29T07:01:14.014Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "apple-TW-1718022711",
+        "source": "apple",
+        "title": "期待集",
+        "artist": "許鈞",
+        "year": "2023",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "apple-1028543947",
+            "name": "許鈞"
+          }
+        ],
+        "genres": [
+          "華語流行樂"
+        ]
+      },
+      "status": "listened",
+      "rating": 7,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T07:01:22.510Z",
+      "updatedAt": "2026-10-29T07:01:24.256Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "4838a3c9-fd2b-30a5-83eb-e32545b5d7fc",
+        "source": "musicbrainz",
+        "title": "Exile on Main St.",
+        "titleAliases": [
+          "Exile on Main Street",
+          "Exile on Main St. CD Two"
+        ],
+        "artist": "The Rolling Stones",
+        "year": "1972",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+            "name": "The Rolling Stones",
+            "aliases": [
+              "ローリング・ストーンズ",
+              "Stones",
+              "The Stones",
+              "Rolling Stones"
+            ]
+          }
+        ],
+        "genres": [
+          "rock",
+          "blues rock",
+          "roots rock",
+          "classic rock",
+          "country rock",
+          "hard rock",
+          "album rock",
+          "rock & roll",
+          "rock and roll",
+          "r&b"
+        ]
+      },
+      "status": "listened",
+      "rating": 7,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T07:03:33.566Z",
+      "updatedAt": "2026-10-29T07:03:37.911Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "8a01217e-6947-3927-a39b-6691104694f1",
+        "source": "musicbrainz",
+        "title": "The College Dropout",
+        "titleAliases": [
+          "The College Dropout +1"
+        ],
+        "artist": "Kanye West",
+        "year": "2004",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "164f0d73-1234-4e2c-8743-d77bf2191051",
+            "name": "Ye",
+            "aliases": [
+              "Ye",
+              "Kanye West",
+              "カニエ・ウェスト",
+              "Donda",
+              "Kanye",
+              "Yeezy",
+              "Kanye Omari West"
+            ]
+          }
+        ],
+        "genres": [
+          "hip hop",
+          "alternative rap",
+          "pop rap",
+          "hip hop rap",
+          "pop-rap",
+          "midwest rap",
+          "chipmunk soul",
+          "hip-hop",
+          "east coast rap",
+          "hip hop/rap"
+        ]
+      },
+      "status": "listened",
+      "rating": 9,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T07:03:57.259Z",
+      "updatedAt": "2026-10-29T07:04:00.965Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "fb5964c9-f11d-45aa-9a23-286d545ae778",
+        "source": "musicbrainz",
+        "title": "唄ひ手冥利 〜其の壱〜",
+        "titleAliases": [
+          "Utaite Myouri (Sono Ichi) - A Favor of Duty, Pt. 1"
+        ],
+        "artist": "椎名林檎",
+        "year": "2002",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "9e414497-23b7-4ab7-9ec6-8ea9864c9e87",
+            "name": "椎名林檎",
+            "aliases": [
+              "Ringo Shiina",
+              "椎名林檎",
+              "Sheena Ringo",
+              "椎名 林檎",
+              "椎名裕美子",
+              "Shiina, Ringo",
+              "Shéna Ringo",
+              "Shiina Ringo"
+            ]
+          }
+        ],
+        "genres": [
+          "rock",
+          "j-pop"
+        ]
+      },
+      "status": "listened",
+      "rating": 8.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T07:04:09.624Z",
+      "updatedAt": "2026-10-29T07:04:13.001Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "852a2e24-67c6-4fb9-8932-9fc01564822b",
+        "source": "musicbrainz",
+        "title": "要去什麼地方",
+        "titleAliases": [],
+        "artist": "田馥甄",
+        "year": "2026",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "0827063c-b93d-48bd-abc4-04ce2fbc45d7",
+            "name": "田馥甄",
+            "aliases": [
+              "田馥甄",
+              "Hebe Tien",
+              "Tián Fù Zhēn",
+              "Tian Fu Zhen",
+              "Hebe"
+            ]
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 7,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T07:04:22.489Z",
+      "updatedAt": "2026-10-29T07:04:25.340Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "1c176855-2882-4b4b-95d4-68a12e330ec5",
+        "source": "musicbrainz",
+        "title": "無人知曉",
+        "titleAliases": [
+          "无人知晓"
+        ],
+        "artist": "田馥甄",
+        "year": "2020",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "0827063c-b93d-48bd-abc4-04ce2fbc45d7",
+            "name": "田馥甄",
+            "aliases": [
+              "田馥甄",
+              "Hebe Tien",
+              "Tián Fù Zhēn",
+              "Tian Fu Zhen",
+              "Hebe"
+            ]
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 8,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T07:04:25.971Z",
+      "updatedAt": "2026-10-29T07:04:28.364Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "850a89cd-a690-47ec-9773-d51df2a1c614",
+        "source": "musicbrainz",
+        "title": "菊花夜行軍",
+        "titleAliases": [
+          "菊花夜行軍（15週年全新混音版）"
+        ],
+        "artist": "交工樂隊",
+        "year": "2001",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "5a24e49a-433f-4ba4-a999-c0a6ac1768f4",
+            "name": "交工樂隊",
+            "aliases": [
+              "The Labor Exchange Band"
+            ]
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 8.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T07:04:34.698Z",
+      "updatedAt": "2026-10-29T07:04:39.130Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "59f8c580-f50a-4c2c-b810-dec0d6c4b864",
+        "source": "musicbrainz",
+        "title": "不允許哭泣的場合",
+        "titleAliases": [],
+        "artist": "魏如萱",
+        "year": "2011",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "3821e3ac-4d91-40b8-a669-f58d1fe2c0c4",
+            "name": "魏如萱",
+            "aliases": [
+              "魏如萱",
+              "Waa Wei",
+              "Waa"
+            ]
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 8,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T07:04:54.373Z",
+      "updatedAt": "2026-10-29T07:04:57.022Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "apple-US-1459960630",
+        "source": "apple",
+        "title": "California Nebula",
+        "artist": "Default",
+        "year": "2017",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "apple-1224091418",
+            "name": "Default"
+          }
+        ],
+        "genres": [
+          "Rock & Roll"
+        ]
+      },
+      "status": "listened",
+      "rating": 8,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T07:05:17.289Z",
+      "updatedAt": "2026-10-29T07:05:19.948Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "9bfbe8ef-ffe0-4c25-97ee-3a3d079fdb02",
+        "source": "musicbrainz",
+        "title": "Chinese Football",
+        "titleAliases": [],
+        "artist": "Chinese Football",
+        "year": "2015",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "00155139-0a81-4076-a367-133d8727cf8c",
+            "name": "Chinese Football",
+            "aliases": []
+          }
+        ],
+        "genres": [
+          "math rock",
+          "indie rock",
+          "emo",
+          "midwest emo",
+          "rock",
+          "indie",
+          "self-titled",
+          "_private tag 1"
+        ]
+      },
+      "status": "listened",
+      "rating": 7.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T07:05:32.640Z",
+      "updatedAt": "2026-10-29T07:05:34.817Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "1a5ed261-5e3f-4ecc-923e-5f578440a978",
+        "source": "musicbrainz",
+        "title": "LaLa徐佳瑩首張創作專輯",
+        "titleAliases": [
+          "LaLa徐佳莹首张创作专辑"
+        ],
+        "artist": "徐佳瑩",
+        "year": "2009",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "a47ac8f5-6774-4540-842f-f1eb0a19845c",
+            "name": "徐佳瑩",
+            "aliases": [
+              "徐佳莹",
+              "Từ Giai Oánh",
+              "徐佳瑩",
+              "LaLa Hsu",
+              "Jia Ying Xu",
+              "Jiaying Xu"
+            ]
+          }
+        ],
+        "genres": [
+          "mandopop"
+        ]
+      },
+      "status": "listened",
+      "rating": 9,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T07:05:40.927Z",
+      "updatedAt": "2026-10-29T07:05:43.068Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "0320bdaa-fea6-38b0-b46b-4f40d1990c8c",
+        "source": "musicbrainz",
+        "title": "天国のドア",
+        "titleAliases": [],
+        "artist": "松任谷由実",
+        "year": "1990",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "0d27f48b-c8d7-464b-85e5-5a2b823436c9",
+            "name": "松任谷由実",
+            "aliases": [
+              "松任谷由実",
+              "Yumi Matsutoya",
+              "Yumi Arai",
+              "荒井 由実",
+              "荒井由実",
+              "Karuho Kureta",
+              "呉田軽穂",
+              "呉田 軽穂"
+            ]
+          }
+        ],
+        "genres": [
+          "rock",
+          "electronic",
+          "pop",
+          "soul",
+          "synth-pop",
+          "pop rock",
+          "contemporary r&b",
+          "city pop",
+          "kayōkyoku"
+        ]
+      },
+      "status": "listened",
+      "rating": 5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T07:06:18.215Z",
+      "updatedAt": "2026-10-29T07:06:21.483Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "12ca8193-092d-4c77-93e3-8068b077c289",
+        "source": "musicbrainz",
+        "title": "纯妹妹",
+        "titleAliases": [],
+        "artist": "单依纯",
+        "year": "2025",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "da5993a2-b5b9-40a8-af03-fe5bbc198d29",
+            "name": "单依纯",
+            "aliases": [
+              "Shan Yichun",
+              "单依纯"
+            ]
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 7.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T07:06:37.144Z",
+      "updatedAt": "2026-10-29T07:06:39.530Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "bb623651-209f-406e-b13e-4b910ec632aa",
+        "source": "musicbrainz",
+        "title": "The Boys",
+        "titleAliases": [
+          "The Boys: The 3rd Album",
+          "THE BOYS",
+          "Mr. Taxi"
+        ],
+        "artist": "Girls’ Generation",
+        "year": "2011",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "b7442f18-d9be-4185-8b51-482510046156",
+            "name": "Girls’ Generation",
+            "aliases": [
+              "少女時代",
+              "Girls’ Generation",
+              "소녀시대",
+              "GIRLS' GENERATION"
+            ]
+          }
+        ],
+        "genres": [
+          "electronic",
+          "pop",
+          "electro",
+          "kpop",
+          "dance-pop",
+          "butterfly on cover"
+        ]
+      },
+      "status": "listened",
+      "rating": 8,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T07:07:46.032Z",
+      "updatedAt": "2026-10-29T07:07:58.240Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "bb13cb45-254c-3a61-89a5-15d22a97e6d6",
+        "source": "musicbrainz",
+        "title": "Scary Monsters… and Super Creeps",
+        "titleAliases": [
+          "Scary Monsters (and Super Creeps)"
+        ],
+        "artist": "David Bowie",
+        "year": "1980",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+            "name": "David Bowie",
+            "aliases": [
+              "Davy Jones",
+              "Ziggy Stardust",
+              "David Robert Jones",
+              "The Thin White Duke",
+              "デビッド・ボウイ",
+              "Davis Bowie",
+              "Bowie",
+              "Davie Bowie"
+            ]
+          }
+        ],
+        "genres": [
+          "art rock",
+          "rock",
+          "post-punk",
+          "new wave",
+          "album rock",
+          "art pop",
+          "pop",
+          "experimental rock",
+          "pop rock",
+          "alternative/indie rock"
+        ]
+      },
+      "status": "listened",
+      "rating": 7.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T07:08:17.481Z",
+      "updatedAt": "2026-10-29T07:08:21.029Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "f9401b7b-3ab9-3435-abe0-786e44454bff",
+        "source": "musicbrainz",
+        "title": "Waking Hour",
+        "titleAliases": [],
+        "artist": "Vienna Teng",
+        "year": "2002",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "ffbfc446-f717-4c63-9103-587defe6cf8a",
+            "name": "Vienna Teng",
+            "aliases": []
+          }
+        ],
+        "genres": [
+          "folk",
+          "rock"
+        ]
+      },
+      "status": "listened",
+      "rating": 7.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T07:08:51.531Z",
+      "updatedAt": "2026-10-29T07:08:55.885Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "apple-US-1801890603",
+        "source": "apple",
+        "title": "BRUTAL GIRL DELUSION",
+        "artist": "紅髮少年殺人事件",
+        "year": "2025",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "apple-1765686729",
+            "name": "紅髮少年殺人事件"
+          }
+        ],
+        "genres": [
+          "Indie Rock"
+        ]
+      },
+      "status": "listened",
+      "rating": 4,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T07:09:07.335Z",
+      "updatedAt": "2026-10-29T07:09:10.897Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "apple-TW-1876477193",
+        "source": "apple",
+        "title": "野泳",
+        "artist": "祝遊會",
+        "year": "2026",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "apple-1877589350",
+            "name": "祝遊會"
+          }
+        ],
+        "genres": [
+          "獨立搖滾"
+        ]
+      },
+      "status": "listened",
+      "rating": 7,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T07:09:19.591Z",
+      "updatedAt": "2026-10-29T07:09:23.032Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "0f7554f7-ab7f-425b-9775-74bf6a625d9f",
+        "source": "musicbrainz",
+        "title": "白马村游记",
+        "titleAliases": [],
+        "artist": "上海彩虹室内合唱团",
+        "year": "2018",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "7dadd6fb-b30e-4e9d-8b56-5fa53caec072",
+            "name": "上海彩虹室内合唱团",
+            "aliases": [
+              "Shanghai Rainbow Chamber Singers",
+              "上海彩虹室內合唱團"
+            ]
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 7,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T07:09:37.619Z",
+      "updatedAt": "2026-10-29T07:09:40.550Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "b1392450-e666-3926-a536-22c65f834433",
+        "source": "musicbrainz",
+        "title": "OK Computer",
+        "titleAliases": [
+          "OK Computer: OKNOTOK 1997 2017",
+          "OK Computer OKNOTOK 1997 2017"
+        ],
+        "artist": "Radiohead",
+        "year": "1997",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+            "name": "Radiohead",
+            "aliases": [
+              "Radiohead",
+              "电台司令",
+              "レディオヘッド"
+            ]
+          }
+        ],
+        "genres": [
+          "alternative rock",
+          "art rock",
+          "rock",
+          "atmospheric",
+          "post-britpop",
+          "experimental",
+          "melancholic",
+          "futuristic",
+          "existential",
+          "lonely"
+        ]
+      },
+      "status": "listened",
+      "rating": 8.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T07:09:50.393Z",
+      "updatedAt": "2026-10-29T07:09:52.770Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "58eaafa0-9644-30b3-b637-1ae216bf9bbb",
+        "source": "musicbrainz",
+        "title": "應該",
+        "titleAliases": [],
+        "artist": "楊乃文",
+        "year": "2001",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "4a54c00d-1b27-4100-9830-11fbbed577af",
+            "name": "楊乃文",
+            "aliases": [
+              "楊乃文",
+              "杨乃文",
+              "Faith Yang",
+              "Faith Yeung",
+              "Yang Nai Wen",
+              "Yang Naiwen"
+            ]
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 9,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T07:11:25.750Z",
+      "updatedAt": "2026-10-29T07:11:30.502Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "302786d8-97dd-4d14-a4b4-ee25b5d1a497",
+        "source": "musicbrainz",
+        "title": "手接我的回旋镖",
+        "titleAliases": [],
+        "artist": "张醒婵",
+        "year": "2026",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "fdc18ea4-facf-41b8-9fd3-d0a8a6001ca9",
+            "name": "张醒婵",
+            "aliases": [
+              "Zhang Xingchan",
+              "NONO"
+            ]
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 4,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T07:11:42.063Z",
+      "updatedAt": "2026-10-29T07:11:44.369Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "2941d7af-f9f8-4026-afc4-f107ee14c10d",
+        "source": "musicbrainz",
+        "title": "劳动之余",
+        "titleAliases": [],
+        "artist": "声音玩具",
+        "year": "2021",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "f1d76370-e559-4f26-81c7-8652733352e6",
+            "name": "声音玩具",
+            "aliases": [
+              "Soundtoy",
+              "聲音玩具"
+            ]
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 7.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T07:11:50.667Z",
+      "updatedAt": "2026-10-29T07:11:53.312Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "a50636b5-5233-3329-a7f3-dba3d0e00ef7",
+        "source": "musicbrainz",
+        "title": "In the Court of the Crimson King",
+        "titleAliases": [
+          "In the Court of the Crimson King: An Observation by King Crimson",
+          "En la corte del Rey Carmesi"
+        ],
+        "artist": "King Crimson",
+        "year": "1969",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+            "name": "King Crimson",
+            "aliases": [
+              "キング・クリムゾン",
+              "King Krimson",
+              "King Crimson, with Jon Anderso"
+            ]
+          }
+        ],
+        "genres": [
+          "progressive rock",
+          "art rock",
+          "rock",
+          "political",
+          "war",
+          "improvisation",
+          "progressive",
+          "fantasy",
+          "technical",
+          "melancholic"
+        ]
+      },
+      "status": "listened",
+      "rating": 9,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T07:12:13.005Z",
+      "updatedAt": "2026-10-29T07:12:18.497Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "1d30626a-1392-4d09-8a14-9026eb23cff0",
+        "source": "musicbrainz",
+        "title": "藏著並不等於遺忘",
+        "titleAliases": [],
+        "artist": "魏如萱",
+        "year": "2019",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "3821e3ac-4d91-40b8-a669-f58d1fe2c0c4",
+            "name": "魏如萱",
+            "aliases": [
+              "魏如萱",
+              "Waa Wei",
+              "Waa"
+            ]
+          }
+        ],
+        "genres": [
+          "mandopop"
+        ]
+      },
+      "status": "listened",
+      "rating": 8.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T07:12:49.947Z",
+      "updatedAt": "2026-10-29T07:12:54.037Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "add6cf16-f4c1-3d50-9b28-633b35ca8189",
+        "source": "musicbrainz",
+        "title": "In the Zone",
+        "titleAliases": [
+          "流行禁区 In The Zone"
+        ],
+        "artist": "Britney Spears",
+        "year": "2003",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76",
+            "name": "Britney Spears",
+            "aliases": [
+              "ブリトニー・スピアーズ",
+              "Bretney Spears",
+              "B. Spears",
+              "Brittany Spears",
+              "Briteny Spears",
+              "Brittney Spears",
+              "Britney Jean Spears"
+            ]
+          }
+        ],
+        "genres": [
+          "pop",
+          "general teen pop",
+          "dance",
+          "hip hop",
+          "synth-pop",
+          "dance-pop",
+          "electronic",
+          "electro",
+          "electropop",
+          "rnb swing"
+        ]
+      },
+      "status": "listened",
+      "rating": 6,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T07:13:12.599Z",
+      "updatedAt": "2026-10-29T07:13:16.285Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "ad555095-b0a6-42c8-87aa-8ba035d20e12",
+        "source": "musicbrainz",
+        "title": "The Sensual World",
+        "titleAliases": [],
+        "artist": "Kate Bush",
+        "year": "1989",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "4b585938-f271-45e2-b19a-91c634b5e396",
+            "name": "Kate Bush",
+            "aliases": [
+              "ケイト・ブッシュ",
+              "Catherine Bush",
+              "Kate Bush"
+            ]
+          }
+        ],
+        "genres": [
+          "art pop",
+          "rock",
+          "progressive pop",
+          "art rock",
+          "alternative pop",
+          "pop",
+          "blues",
+          "sophisti-pop",
+          "artist on cover",
+          "rock / art rock / alternative rock"
+        ]
+      },
+      "status": "listened",
+      "rating": 9,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T07:13:30.338Z",
+      "updatedAt": "2026-10-29T07:13:34.226Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "017f2a37-a78f-3578-9611-fa40408e5d90",
+        "source": "musicbrainz",
+        "title": "Hounds of Love",
+        "titleAliases": [
+          "愛のかたち",
+          "Jauría de amor"
+        ],
+        "artist": "Kate Bush",
+        "year": "1985",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "4b585938-f271-45e2-b19a-91c634b5e396",
+            "name": "Kate Bush",
+            "aliases": [
+              "ケイト・ブッシュ",
+              "Catherine Bush",
+              "Kate Bush"
+            ]
+          }
+        ],
+        "genres": [
+          "art rock",
+          "pop rock",
+          "art pop",
+          "progressive pop",
+          "rock",
+          "electronic",
+          "pop",
+          "alternative rock",
+          "experimental",
+          "progressive rock"
+        ]
+      },
+      "status": "listened",
+      "rating": 8.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T07:13:40.169Z",
+      "updatedAt": "2026-10-29T07:13:43.471Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "d28777fc-f135-3394-a033-eafb9ebcffb4",
+        "source": "musicbrainz",
+        "title": "The Dreaming",
+        "titleAliases": [],
+        "artist": "Kate Bush",
+        "year": "1982",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "4b585938-f271-45e2-b19a-91c634b5e396",
+            "name": "Kate Bush",
+            "aliases": [
+              "ケイト・ブッシュ",
+              "Catherine Bush",
+              "Kate Bush"
+            ]
+          }
+        ],
+        "genres": [
+          "art rock",
+          "rock",
+          "pop",
+          "pop rock",
+          "art pop",
+          "alternative/indie rock",
+          "college rock",
+          "progressive pop",
+          "progressive rock",
+          "experimental"
+        ]
+      },
+      "status": "listened",
+      "rating": 8.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T07:13:44.557Z",
+      "updatedAt": "2026-10-29T07:13:47.372Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "9c710cb4-6b20-47d7-a31a-5adb064c6c6b",
+        "source": "musicbrainz",
+        "title": "Imaginal Disk",
+        "titleAliases": [],
+        "artist": "Magdalena Bay",
+        "year": "2024",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "68c261d5-48c8-4ea9-9466-9fc908dc79bb",
+            "name": "Magdalena Bay",
+            "aliases": []
+          }
+        ],
+        "genres": [
+          "synth-pop",
+          "neo-psychedelia",
+          "pop",
+          "electropop",
+          "english",
+          "dance-pop",
+          "pop rock",
+          "indietronica",
+          "progressive pop",
+          "chillwave"
+        ]
+      },
+      "status": "listened",
+      "rating": 6,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T07:14:00.929Z",
+      "updatedAt": "2026-10-29T07:14:03.903Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "1af599c9-0b44-3a5a-a06b-39e8db6b2b4e",
+        "source": "musicbrainz",
+        "title": "Mellon Collie and the Infinite Sadness",
+        "titleAliases": [
+          "Mellon Collie And The Infinite Sadness",
+          "Mellon Collie and the Infinite Sadness (30th anniversary edition)",
+          "Live Infinite Sadness Tour"
+        ],
+        "artist": "The Smashing Pumpkins",
+        "year": "1995",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "ba0d6274-db14-4ef5-b28d-657ebde1a396",
+            "name": "The Smashing Pumpkins",
+            "aliases": [
+              "Smashign Pumpkins",
+              "Smahing Pumpkins",
+              "The Smashing Pumpkinsgs",
+              "Smashing Pumpkins",
+              "Smashing Pumkins"
+            ]
+          }
+        ],
+        "genres": [
+          "alternative rock",
+          "rock",
+          "grunge",
+          "hard rock",
+          "indie rock",
+          "alternative",
+          "post-grunge",
+          "dream pop",
+          "art rock",
+          "alternative metal"
+        ]
+      },
+      "status": "listened",
+      "rating": 7,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T07:14:17.712Z",
+      "updatedAt": "2026-10-29T07:14:20.361Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "494bf606-d2f7-36d0-8340-eadad8601d2b",
+        "source": "musicbrainz",
+        "title": "Disintegration",
+        "titleAliases": [],
+        "artist": "The Cure",
+        "year": "1989",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "69ee3720-a7cb-4402-b48d-a02c366f2bcf",
+            "name": "The Cure",
+            "aliases": [
+              "Cure"
+            ]
+          }
+        ],
+        "genres": [
+          "gothic rock",
+          "alternative rock",
+          "post-punk",
+          "new wave",
+          "dream pop",
+          "rock",
+          "80s",
+          "trance",
+          "electronic",
+          "ambient"
+        ]
+      },
+      "status": "listened",
+      "rating": 7.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T07:14:31.329Z",
+      "updatedAt": "2026-10-29T07:14:35.321Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "743b0b2e-a23a-3182-950e-232f8cb0dfb7",
+        "source": "musicbrainz",
+        "title": "Hunky Dory",
+        "titleAliases": [],
+        "artist": "David Bowie",
+        "year": "1971",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+            "name": "David Bowie",
+            "aliases": [
+              "Davy Jones",
+              "Ziggy Stardust",
+              "David Robert Jones",
+              "The Thin White Duke",
+              "デビッド・ボウイ",
+              "Davis Bowie",
+              "Bowie",
+              "Davie Bowie"
+            ]
+          }
+        ],
+        "genres": [
+          "rock",
+          "art rock",
+          "glam rock",
+          "pop rock",
+          "singer-songwriter",
+          "baroque pop",
+          "piano rock",
+          "cd extra",
+          "bowie",
+          "art pop"
+        ]
+      },
+      "status": "listened",
+      "rating": 9,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T07:14:44.542Z",
+      "updatedAt": "2026-10-29T07:14:46.803Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "fed49206-4869-307d-9bfa-08109424cb73",
+        "source": "musicbrainz",
+        "title": "Heathen",
+        "titleAliases": [],
+        "artist": "David Bowie",
+        "year": "2002",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+            "name": "David Bowie",
+            "aliases": [
+              "Davy Jones",
+              "Ziggy Stardust",
+              "David Robert Jones",
+              "The Thin White Duke",
+              "デビッド・ボウイ",
+              "Davis Bowie",
+              "Bowie",
+              "Davie Bowie"
+            ]
+          }
+        ],
+        "genres": [
+          "alternative rock",
+          "art rock",
+          "rock",
+          "album rock",
+          "electronic",
+          "downtempo",
+          "classic pop and rock",
+          "pop/rock",
+          "contemporary pop/rock",
+          "rock/pop"
+        ]
+      },
+      "status": "listened",
+      "rating": 8.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T07:15:23.592Z",
+      "updatedAt": "2026-10-29T07:16:46.389Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "4b16a1bc-8644-48ae-9b3e-8ae36aa30cfc",
+        "source": "musicbrainz",
+        "title": "Born to Die",
+        "titleAliases": [
+          "Born to Die: The Paradise Edition",
+          "Born to Die: The Paradise edition",
+          "Born to Die (The Paradise edition)"
+        ],
+        "artist": "Lana Del Rey",
+        "year": "2012",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+            "name": "Lana Del Rey",
+            "aliases": [
+              "Lana Del Rey",
+              "Lana dil Ray",
+              "Лана Дель Рей",
+              "ลานา เดล เรย์",
+              "Лана дел Реј",
+              "ਲਾਨਾ ਡੈਲ ਰੇ",
+              "लेना डेल रे",
+              "Лана Дел Рей"
+            ]
+          }
+        ],
+        "genres": [
+          "pop",
+          "art pop",
+          "chamber pop",
+          "indie pop",
+          "alternative rock",
+          "trip hop",
+          "downtempo",
+          "baroque pop",
+          "alternative pop",
+          "ambient pop"
+        ]
+      },
+      "status": "listened",
+      "rating": 7,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-10-29T07:20:37.691Z",
+      "updatedAt": "2026-10-29T07:20:40.372Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "d4e01dbb-8267-4cdd-bb03-6b34d58dde0d",
+        "source": "musicbrainz",
+        "title": "關不住",
+        "titleAliases": [
+          "関不住",
+          "关不住"
+        ],
+        "artist": "伊能靜",
+        "year": "2001",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "4d423495-3f71-4ba5-8ff7-cb47edf7574a",
+            "name": "伊能靜",
+            "aliases": [
+              "呉静怡",
+              "Yi Neng Jing",
+              "伊能静",
+              "Annie Yi"
+            ]
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 8.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-11-21T03:33:02.661Z",
+      "updatedAt": "2026-11-21T03:33:06.042Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "2e61da88-39e9-3473-81d2-c964cb394952",
+        "source": "musicbrainz",
+        "title": "[Led Zeppelin IV]",
+        "titleAliases": [
+          "Led Zeppelin IV"
+        ],
+        "artist": "Led Zeppelin",
+        "year": "1971",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "678d88b2-87b0-403b-b63d-5da7465aecc3",
+            "name": "Led Zeppelin",
+            "aliases": [
+              "レッド・ツェッペリン",
+              "Led Zeppelin",
+              "レッドツェッペリン"
+            ]
+          }
+        ],
+        "genres": [
+          "hard rock",
+          "rock",
+          "blues rock",
+          "classic rock",
+          "blues",
+          "folk rock",
+          "arena rock",
+          "album rock",
+          "heavy metal",
+          "british blues"
+        ]
+      },
+      "status": "listened",
+      "rating": 8,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-11-21T03:33:22.969Z",
+      "updatedAt": "2026-11-21T03:33:25.625Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "f29f3a6c-2e62-4010-853d-f871fda5ff6e",
+        "source": "musicbrainz",
+        "title": "miss.G",
+        "titleAliases": [
+          "miss.G +2"
+        ],
+        "artist": "具島直子",
+        "year": "1996",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "6befb25b-9470-457b-85e7-887baa50905c",
+            "name": "具島直子",
+            "aliases": [
+              "ぐしま なおこ",
+              "Naoko Gushima",
+              "具島 直子"
+            ]
+          }
+        ],
+        "genres": [
+          "pop",
+          "j-pop",
+          "jazz",
+          "aor"
+        ]
+      },
+      "status": "listened",
+      "rating": null,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-11-21T03:34:41.018Z",
+      "updatedAt": "2026-11-21T03:34:41.018Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "6d28b1e7-3d79-3dff-8c8c-a8b2ca8fa1f4",
+        "source": "musicbrainz",
+        "title": "Silence",
+        "titleAliases": [],
+        "artist": "楊乃文",
+        "year": "1999",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "4a54c00d-1b27-4100-9830-11fbbed577af",
+            "name": "楊乃文",
+            "aliases": [
+              "楊乃文",
+              "杨乃文",
+              "Faith Yang",
+              "Faith Yeung",
+              "Yang Nai Wen",
+              "Yang Naiwen"
+            ]
+          }
+        ],
+        "genres": [
+          "mandopop"
+        ]
+      },
+      "status": "listened",
+      "rating": 7.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-11-21T03:34:53.268Z",
+      "updatedAt": "2026-11-21T03:34:55.096Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "apple-US-156209178",
+        "source": "apple",
+        "title": "順子",
+        "artist": "Shunza",
+        "year": "1997",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "apple-14815551",
+            "name": "Shunza"
+          }
+        ],
+        "genres": [
+          "Mandopop"
+        ]
+      },
+      "status": "listened",
+      "rating": 8.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-11-21T03:35:05.514Z",
+      "updatedAt": "2026-11-21T03:35:10.767Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "apple-TW-1445993879",
+        "source": "apple",
+        "title": "垂直活著, 水平留戀著。",
+        "artist": "艾怡良",
+        "year": "2018",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "apple-571294820",
+            "name": "艾怡良"
+          }
+        ],
+        "genres": [
+          "華語流行樂"
+        ]
+      },
+      "status": "listened",
+      "rating": 8,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-11-21T03:35:19.495Z",
+      "updatedAt": "2026-11-21T03:35:22.657Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "1e5f92e0-913c-3202-a72c-b068b9f34ce1",
+        "source": "musicbrainz",
+        "title": "Circus",
+        "titleAliases": [],
+        "artist": "Britney Spears",
+        "year": "2008",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76",
+            "name": "Britney Spears",
+            "aliases": [
+              "ブリトニー・スピアーズ",
+              "Bretney Spears",
+              "B. Spears",
+              "Brittany Spears",
+              "Briteny Spears",
+              "Brittney Spears",
+              "Britney Jean Spears"
+            ]
+          }
+        ],
+        "genres": [
+          "pop",
+          "dance-pop",
+          "electropop",
+          "synth-pop",
+          "electronic",
+          "dance",
+          "américain",
+          "ballad",
+          "club",
+          "contemporary r&b"
+        ]
+      },
+      "status": "listened",
+      "rating": 7,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-11-21T03:36:03.253Z",
+      "updatedAt": "2026-11-21T03:36:07.653Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "apple-US-1195107061",
+        "source": "apple",
+        "title": "Young Americans (2016 Remaster)",
+        "artist": "David Bowie",
+        "year": "1975",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "apple-551695",
+            "name": "David Bowie"
+          }
+        ],
+        "genres": [
+          "Rock"
+        ]
+      },
+      "status": "listened",
+      "rating": 8.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-11-21T03:36:31.749Z",
+      "updatedAt": "2026-11-21T03:36:35.252Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "apple-US-1810879770",
+        "source": "apple",
+        "title": "American Infant: Lullaby covers of Green Day's American Idiot",
+        "artist": "Sparrow Sleeps",
+        "year": "2025",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "apple-745576349",
+            "name": "Sparrow Sleeps"
+          }
+        ],
+        "genres": [
+          "Children's Music"
+        ]
+      },
+      "status": "wanted",
+      "rating": null,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-11-21T03:36:51.961Z",
+      "updatedAt": "2026-11-21T03:37:25.109Z",
+      "deletedAt": "2026-11-21T03:37:25.109Z"
+    },
+    {
+      "album": {
+        "id": "de9bf827-a9b0-348b-a7c9-556c03c3fb07",
+        "source": "musicbrainz",
+        "title": "American Idiot",
+        "titleAliases": [
+          "American Idiot: The Ultimate American Idiot"
+        ],
+        "artist": "Green Day",
+        "year": "2004",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "084308bd-1654-436f-ba03-df6697104e19",
+            "name": "Green Day",
+            "aliases": [
+              "グリーン・デイ"
+            ]
+          }
+        ],
+        "genres": [
+          "alternative rock",
+          "punk rock",
+          "pop punk",
+          "pop rock",
+          "rock",
+          "rock opera",
+          "alternative",
+          "punk",
+          "power pop",
+          "urban"
+        ]
+      },
+      "status": "listened",
+      "rating": 7,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-11-21T03:37:33.277Z",
+      "updatedAt": "2026-11-21T03:37:35.984Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "3918b90b-340e-3779-9d7e-ba1593653498",
+        "source": "musicbrainz",
+        "title": "Hot Space",
+        "titleAliases": [],
+        "artist": "Queen",
+        "year": "1982",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+            "name": "Queen",
+            "aliases": [
+              "Queen",
+              "皇后乐队",
+              "クイーン"
+            ]
+          }
+        ],
+        "genres": [
+          "rock",
+          "pop rock",
+          "pop",
+          "electronic",
+          "funk",
+          "electro-disco",
+          "album rock",
+          "dance",
+          "new wave",
+          "funk rock"
+        ]
+      },
+      "status": "listened",
+      "rating": 7.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-11-21T03:37:45.521Z",
+      "updatedAt": "2026-11-21T03:37:48.510Z",
+      "deletedAt": null
+    },
+    {
+      "album": {
+        "id": "b77121d5-4759-47b6-b11e-46dcee8f1903",
+        "source": "musicbrainz",
+        "title": "優雅的刺蝟",
+        "titleAliases": [],
+        "artist": "魏如萱",
+        "year": "2010",
+        "type": "Album",
+        "artists": [
+          {
+            "id": "3821e3ac-4d91-40b8-a669-f58d1fe2c0c4",
+            "name": "魏如萱",
+            "aliases": [
+              "魏如萱",
+              "Waa Wei",
+              "Waa"
+            ]
+          }
+        ],
+        "genres": []
+      },
+      "status": "listened",
+      "rating": 8.5,
+      "note": "",
+      "category": "",
+      "addedAt": "2026-11-21T03:37:56.148Z",
+      "updatedAt": "2026-11-21T03:37:59.883Z",
+      "deletedAt": null
+    }
+  ]
+}

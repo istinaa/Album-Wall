@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#315d4c">
+  <meta name="description" content="检索唱片，收藏声音，记录你的聆听旅程。">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' blob: data: http://127.0.0.1:* https://coverartarchive.org https://archive.org https://*.archive.org; style-src 'self'; script-src 'self'; connect-src 'self' http://127.0.0.1:* https://*.supabase.co; base-uri 'none'; frame-ancestors 'none'; form-action 'self'">
+  <title>唱片墙 · Album Wall</title>
+  <link rel="icon" href="./cover-placeholder.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./styles.css">
+  <script type="module" src="./app.js"></script>
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar">
+      <a class="brand" href="#" id="brandHome" aria-label="唱片墙首页"><span class="brand-mark">◉</span><span>唱片墙<small>ALBUM WALL</small></span></a>
+      <div class="eyebrow nav-caption">YOUR LISTENING ROOM</div>
+      <nav class="nav" aria-label="主要导航">
+        <button data-view="home" aria-label="聆听空间" title="聆听空间"><span class="nav-symbol" aria-hidden="true">◉</span><span>聆听空间</span></button>
+        <button class="active" data-view="wall" aria-current="page" aria-label="我的唱片墙" title="我的唱片墙"><span class="nav-symbol" aria-hidden="true">▦</span><span>我的唱片墙</span></button>
+        <button data-view="discover" aria-label="发现唱片" title="发现唱片"><span class="nav-symbol" aria-hidden="true">⌕</span><span>发现唱片</span></button>
+        <button data-view="listened" aria-label="听过的" title="听过的"><span class="nav-symbol" aria-hidden="true">✓</span><span>听过的</span></button>
+        <button data-view="wanted" aria-label="想听清单" title="想听清单"><span class="nav-symbol" aria-hidden="true">♡</span><span>想听清单</span></button>
+        <button data-view="rankings" aria-label="我的排行" title="我的排行"><span class="nav-symbol" aria-hidden="true">↗</span><span>我的排行</span></button>
+        <button data-view="filters" aria-label="范围筛选" title="范围筛选"><span class="nav-symbol" aria-hidden="true">◒</span><span>范围筛选</span></button>
+        <button data-view="display" aria-label="墙面展示" title="墙面展示"><span class="nav-symbol" aria-hidden="true">◌</span><span>墙面展示</span></button>
+      </nav>
+      <div class="sidebar-bottom">
+        <div class="sidebar-note">每张唱片，<br>都有一个属于你的故事。</div>
+        <div class="profile"><span class="avatar">◉</span><div><div class="profile-name">我的音乐档案</div><div class="profile-state">保存在此浏览器</div></div></div>
+      </div>
+    </aside>
+    <main class="main">
+      <header class="topbar">
+        <div class="crumb">音乐档案 / <strong id="breadcrumb">我的唱片墙</strong></div>
+        <div class="top-actions"><span class="local-badge"><i></i>本地模式</span><button class="secondary" id="settingsBtn" aria-label="数据与同步" title="数据与同步">数据与同步</button></div>
+      </header>
+      <div id="storageWarning" class="notice error-notice" role="alert" hidden></div>
+      <section id="welcomeSection" class="welcome-section" aria-label="我的唱片墙预览">
+        <canvas id="welcomeCanvas" class="welcome-canvas" role="img" aria-label="我的收藏倾斜排列，缓慢向左滚动"></canvas>
+        <div class="welcome-scrim"></div>
+        <div class="welcome-copy"><h1>我的唱片墙</h1><div class="button-row"><button class="primary" id="welcomeEnterBtn">查看收藏</button><button class="secondary" id="welcomeDisplayBtn">全屏展示</button></div></div>
+        <div class="welcome-bottom"><span id="welcomeCaption">还没有收藏</span></div>
+      </section>
+      <section class="hero">
+        <div><div class="eyebrow">A LIFE IN RECORDS</div><h1 id="pageTitle">我的唱片墙</h1><p id="pageDescription">把听过的声音，留在属于你的墙上。</p></div>
+        <button class="primary discover-cta" id="discoverBtn">＋ 发现新唱片</button>
+      </section>
+      <section class="stats" aria-label="收藏统计">
+        <div class="stat"><div class="stat-label">墙上唱片</div><span class="stat-value" id="statTotal">0</span><span class="stat-note">张</span></div>
+        <div class="stat"><div class="stat-label">已听过</div><span class="stat-value" id="statPlayed">0</span><span class="stat-note" id="statPercent">0%</span></div>
+        <div class="stat"><div class="stat-label">我的平均评分</div><span class="stat-value" id="statRating">—</span><span class="stat-note">/ 10</span></div>
+        <div class="stat"><div class="stat-label">收藏艺人</div><span class="stat-value" id="statArtists">0</span><span class="stat-note">位</span></div>
+      </section>
+      <section id="wallDisplay" class="wall-display" hidden aria-label="唱片墙展示">
+        <div class="display-toolbar"><div><div class="eyebrow">A MOVING WALL OF SOUND</div><h2>把声音，挂在墙上。</h2><p>点击唱片查看详情，定格此刻，带走一面属于你的墙。</p></div><div class="display-actions"><button class="secondary" id="pauseWallBtn">暂停滚动</button><button class="secondary" id="fullscreenWallBtn">全屏展示</button><button class="primary" id="exportWallBtn">导出 PNG 截图</button></div></div>
+        <div class="wall-filters" role="group" aria-label="展示筛选">
+          <label>最低评分<select id="wallRatingFilter" aria-label="展示最低评分"><option value="">全部评分</option></select></label>
+          <label>聆听状态<select id="wallStatusFilter"><option value="all">全部状态</option><option value="listened">听过</option><option value="wanted">想听</option></select></label>
+          <label>艺人<select id="wallArtistFilter"><option value="">所有艺人</option></select></label>
+          <label>类别<select id="wallGenreFilter"><option value="">所有类别</option></select></label>
+          <label class="wall-query">关键词<input type="search" id="wallQueryFilter" placeholder="专辑、艺人或简评" maxlength="120"></label>
+          <button class="text-btn" id="resetWallFiltersBtn">清除筛选</button>
+        </div>
+        <p class="wall-filter-summary" id="wallFilterSummary" role="status">筛选会同时应用于全屏展示与导出截图</p>
+        <div id="wallEmpty" class="empty wall-empty" hidden><h2>没有符合条件的唱片</h2><p>试着降低最低评分，或清除筛选后再展示。</p></div>
+        <canvas class="wall-canvas" id="displayCanvas" role="img" aria-label="倾斜排列并向左滚动的唱片墙，可暂停并导出当前画面"></canvas>
+        <div class="display-footer"><span>DISPLAY MODE · <strong id="wallCount">0 张唱片</strong></span><button class="text-btn" id="backToLibraryBtn">返回唱片库</button></div>
+      </section>
+      <section id="rankingsSection" class="ranking-section" hidden aria-label="我的音乐排行">
+        <div class="section-head"><h2>我的排行 <span id="rankingCount">0 位艺人</span></h2><span class="eyebrow">PERSONAL CHARTS</span></div>
+        <div class="ranking-toolbar"><p>按收藏数量、平均评分和已听数量查看你最常收藏的艺人。</p><label>排序方式<select id="rankingMetric"><option value="albums">收藏唱片数</option><option value="average">平均评分</option><option value="listened">已听唱片数</option></select></label></div>
+        <figure id="ratingChart" class="rating-chart" aria-label="评分分布"></figure>
+        <div id="artistRanking" class="ranking-list"></div>
+        <div class="section-head ranking-subhead"><h2>类别排行 <span id="genreRankingCount">0 个类别</span></h2><span class="eyebrow">GENRE CHARTS</span></div>
+        <div id="genreRanking" class="ranking-list"></div>
+      </section>
+      <section id="filterSection" class="filter-section" hidden aria-label="范围筛选">
+        <div class="section-head"><h2>范围筛选 <span id="filterResultCount">0 张</span></h2><span class="eyebrow">FILTER YOUR COLLECTION</span></div>
+        <div class="range-panel">
+          <div class="range-heading"><div><strong>我的评分范围</strong><span>拖动滑块选择要展示的分数</span></div><output id="filterRatingSummary">全部评分</output></div>
+          <div class="dual-range"><div class="range-track"></div><input id="filterMinRating" type="range" min="0" max="10" step="0.5" value="0" aria-label="最低评分"><input id="filterMaxRating" type="range" min="0" max="10" step="0.5" value="10" aria-label="最高评分"></div>
+          <div class="range-scale"><span>0 分</span><span>5 分</span><span>10 分</span></div>
+          <label class="unrated-toggle"><input id="filterIncludeUnrated" type="checkbox" checked> 包含未评分唱片</label>
+        </div>
+        <div class="filter-panel-row">
+          <label>聆听状态<select id="panelStatusFilter"><option value="all">全部状态</option><option value="listened">听过</option><option value="wanted">想听</option></select></label>
+          <label>艺人<select id="panelArtistFilter"><option value="">所有艺人</option></select></label>
+          <label>类别<select id="panelGenreFilter"><option value="">所有类别</option></select></label>
+          <label class="panel-query">关键词<input id="panelQueryFilter" type="search" placeholder="专辑、艺人或简评" maxlength="120"></label>
+          <button class="text-btn" id="resetPanelFiltersBtn">重置范围</button>
+        </div>
+        <div class="grid" id="filterGrid" aria-live="polite"></div>
+      </section>
+      <section id="librarySection" aria-label="唱片库">
+        <div class="library-tools">
+          <form class="search-form" id="searchForm" role="search">
+            <label for="searchInput" class="sr-only">搜索唱片或艺人</label>
+            <div class="search-wrap"><input id="searchInput" type="search" maxlength="120" placeholder="筛选我的唱片、艺人…" autocomplete="off"><span aria-hidden="true">⌕</span></div>
+            <select id="searchField" aria-label="搜索范围" hidden><option value="all">综合</option><option value="title">专辑名称</option><option value="artist">艺人</option></select>
+            <select id="searchKind" aria-label="发行类型" hidden><option value="studio">录音室专辑</option><option value="all">全部发行（含现场、单曲）</option></select>
+            <button class="primary" id="searchBtn" type="submit" hidden>搜索</button>
+          </form>
+          <button class="secondary" id="showFilteredWallBtn">展示筛选结果 ↗</button><select id="sortSelect" aria-label="唱片排序"><option value="recent">最近添加</option><option value="title">专辑名称</option><option value="rating">我的评分</option></select>
+        </div>
+        <div class="filter-row" id="filterRow">
+          <button class="filter active" data-status="all" aria-pressed="true">全部</button>
+          <button class="filter" data-status="listened" aria-pressed="false">听过</button>
+          <button class="filter" data-status="wanted" aria-pressed="false">想听</button>
+          <select id="artistFilter" aria-label="按艺人筛选"><option value="">所有艺人</option></select>
+          <select id="genreFilter" aria-label="按类别筛选"><option value="">所有类别</option></select>
+          <select id="ratingFilter" aria-label="收藏最低评分"><option value="">全部评分</option></select>
+        </div>
+        <div class="section-head"><h2 id="sectionTitle">唱片库 <span id="resultCount">0 张</span></h2><span class="eyebrow" id="libraryCaption">PERSONAL COLLECTION</span></div>
+        <div class="grid" id="albumGrid" aria-live="polite"></div>
+        <div class="pagination" id="pagination" hidden><button class="secondary" id="loadMoreBtn">加载更多</button></div>
+      </section>
+      <footer class="page-footer"><span>COLLECT SOUNDS. KEEP MEMORIES.</span><span>元数据 <a href="https://musicbrainz.org/" target="_blank" rel="noreferrer">MusicBrainz</a> / Apple Music · 封面 Cover Art Archive / Apple Music / 网易云音乐</span></footer>
+    </main>
+  </div>
+  <div class="toast" id="toast" role="status"></div>
+  <dialog id="albumDialog" class="modal" aria-labelledby="albumHeading">
+    <button class="icon-btn modal-close" data-close="albumDialog" aria-label="关闭唱片详情">×</button>
+    <form id="recordForm">
+      <div class="detail">
+        <div><img id="detailCover" class="detail-cover" src="./cover-placeholder.svg" alt=""><a id="sourceLink" class="source-link" target="_blank" rel="noreferrer">在 MusicBrainz 查看 ↗</a></div>
+        <div><div class="eyebrow" id="detailMeta"></div><h2 id="albumHeading"></h2><div class="detail-artist" id="detailArtist"></div><div id="detailGenres"></div>
+          <label class="detail-label" for="statusInput">聆听状态</label><select id="statusInput"><option value="wanted">想听</option><option value="listened">听过</option></select>
+          <div class="form-two"><div><label class="detail-label" for="ratingInput">我的评分 · 10 分制</label><div class="detail-rating"><div class="rating-slider"><input id="ratingInput" type="range" min="0" max="10" step="0.5" value="0" aria-describedby="ratingPreview"><output id="ratingPreview">未评分</output></div><button type="button" class="clear-rating" id="clearRatingBtn">清除评分</button></div></div><div><label class="detail-label" for="categoryInput">个人分类</label><input id="categoryInput" maxlength="100" list="categories" placeholder="如：摇滚、爵士"><datalist id="categories"><option value="摇滚"></option><option value="流行"></option><option value="爵士"></option><option value="电子"></option><option value="民谣"></option><option value="古典"></option></datalist></div></div>
+        </div>
+      </div>
+      <label class="detail-label" for="noteInput">这一张，留下了什么？</label><textarea class="note" id="noteInput" rows="3" maxlength="5000" placeholder="写下此刻的感受，下次重听时再见。"></textarea>
+      <p class="form-error" id="recordError" role="alert" hidden></p>
+      <div class="modal-actions"><button type="button" class="text-btn danger" id="removeBtn">移出唱片墙</button><button type="button" class="secondary" data-close="albumDialog">取消</button><button class="primary" type="submit">保存记录</button></div>
+    </form>
+  </dialog>
+  <dialog id="settingsDialog" class="modal settings-modal" aria-labelledby="settingsHeading">
+    <button class="icon-btn modal-close" data-close="settingsDialog" aria-label="关闭数据与同步">×</button>
+    <div class="eyebrow">YOUR MUSIC, YOUR DATA</div><h2 id="settingsHeading">数据与同步</h2>
+    <div class="settings-block"><h3><span class="status-dot"></span>本地收藏</h3><p id="localStorageDescription">收藏和聆听记录保存在当前浏览器。清理网站数据会删除本地收藏，建议定期导出备份。</p><p id="storageStatus" class="fine-print"></p><div class="button-row"><button class="primary" id="exportBtn">导出 JSON 备份</button><button class="secondary" id="importBtn">导入备份</button><button class="secondary" id="snapshotBtn">立即创建快照</button><input id="importInput" type="file" accept=".json,application/json" hidden></div><p class="fine-print">导入时合并收藏，同一唱片保留更新的记录（含删除记录）。</p></div>
+    <div class="settings-block"><h3>Supabase 云数据库 <span class="tag">可选</span></h3><p>填入你自己的 Supabase 项目地址和 anon key。应用使用匿名登录，不读取或保存 Supabase 密码；点击“同步收藏”才会上传本地唱片记录。</p><div class="cloud-form"><label>项目 URL<input id="supabaseUrl" type="url" placeholder="https://xxxx.supabase.co" autocomplete="off"></label><label>anon key<input id="supabaseKey" type="password" placeholder="eyJ…" autocomplete="off"></label></div><p id="supabaseStatus" class="fine-print">未配置云端数据库；本地收藏和 JSON 备份仍然可用。</p><div class="button-row"><button class="secondary" id="connectCloudBtn">连接云端</button><button class="primary" id="syncCloudBtn" disabled>同步收藏</button></div><p class="fine-print">首次使用前，在 Supabase SQL Editor 执行项目内 <code>supabase/migrations/001_library.sql</code>，并在 Authentication → Providers 开启 Anonymous。</p></div>
+    <div class="settings-block"><h3>云同步文件夹 <span class="tag">OneDrive / Dropbox</span></h3><p id="cloudStatus">选择一个已经由 OneDrive、Dropbox 或坚果云同步的文件夹，唱片墙会自动保存一份副本。应用不会接触你的云端账号密码。</p><div class="button-row"><button class="secondary" id="chooseSyncBtn">选择同步文件夹</button></div></div>
+    <div class="settings-block"><h3>关于唱片信息</h3><p>元数据来自 MusicBrainz 与 Apple Music 公开目录；新发行会由 Apple Music 补齐。封面由 Cover Art Archive、Apple Music 与网易云音乐补全，支持简繁体、空格、大小写、艺人别名及常见版本名称匹配。无法匹配时显示黑胶占位图。封面仅供个人收藏展示使用。</p></div>
+  </dialog>
+  <noscript>唱片墙需要启用 JavaScript 才能检索和保存收藏。</noscript>
+</body>
+</html>

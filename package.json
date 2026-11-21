@@ -1,0 +1,26 @@
+{
+  "name": "album-wall",
+  "version": "0.9.0",
+  "private": true,
+  "description": "唱片墙：连接公开唱片数据库，管理个人聆听记录",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch --env-file-if-exists=.env server.mjs",
+    "server": "node --env-file-if-exists=.env server.mjs",
+    "start": "electron desktop/main.mjs",
+    "desktop": "electron desktop/main.mjs",
+    "setup:desktop": "install-electron",
+    "test": "node --test tests/*.test.mjs",
+    "package": "node scripts/package.mjs"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "devDependencies": {
+    "@electron/packager": "^20.3.0",
+    "electron": "44.4.3"
+  },
+  "dependencies": {
+    "opencc-js": "1.4.2"
+  }
+}
